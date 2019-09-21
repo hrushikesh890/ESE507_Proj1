@@ -31,14 +31,18 @@ module control (valid_in, valid_out, enable_a, enable_f)
 	end
 end
 		
-
-
 module part2(clk, reset, a, valid_in, f, valid_out);
 	input clk, reset, valid_in;
 	input [7:0] a; 
 	output logic [19:0] f;
 	output logic valid_out;
-	output logic [15:0] mult_out;
-	s
+	wire logic [7:0] w_dff;
+	wire logic w_en_a, w_en_f;
+	wire logic [15:0] w_mult;
+	wire logic [19:0] w_sum;
 
-	dff inst1 (.clk(clk), .a(a), .reset(reset), .enable_a(enable_a), .dff_out(dff_out));
+	control inst1 (.valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f));
+	dff inst1 (.clk(clk), .a(a), .reset(reset), .enable_a(w_en_a), .dff_out(w_dff));
+
+	assign w_mult = w_dff * w_dff;
+	assign w_sum = w_mult + f;

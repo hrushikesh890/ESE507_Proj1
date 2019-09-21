@@ -1,4 +1,4 @@
-module dff (clk, reset, a, enable_a, dff_out) begin
+module dff (clk, reset, a, enable_a, dff_out);
 	input clk, reset, enable_a;
 	input [7:0] a; 
 	output logic [7:0] dff_out;
@@ -13,9 +13,9 @@ module dff (clk, reset, a, enable_a, dff_out) begin
 		else
 			dff_out <= 0;
 	end
-end
+endmodule
 
-module control (valid_in, valid_out, enable_a, enable_f) begin
+module control (valid_in, valid_out, enable_a, enable_f);
 	input valid_in;
 	output logic valid_out, enable_a, enable_f;
 
@@ -29,9 +29,9 @@ module control (valid_in, valid_out, enable_a, enable_f) begin
 			enable_f = 0;
 			valid_out = 0;
 	end
-end
+endmodule
 
-module op_dff (d_in, enable_f, clk, reset, f) begin
+module op_dff (d_in, enable_f, clk, reset, f);
 	input clk, reset, enable_f;
 	input [19:0] d_in; 
 	output logic [19:0] f;
@@ -46,10 +46,10 @@ module op_dff (d_in, enable_f, clk, reset, f) begin
 		else
 			f <= 0;
 	end
-end
+endmodule
 
 		
-module part2(clk, reset, a, valid_in, f, valid_out) begin
+module part2(clk, reset, a, valid_in, f, valid_out);
 	input clk, reset, valid_in;
 	input [7:0] a; 
 	output logic [19:0] f;
@@ -66,4 +66,4 @@ module part2(clk, reset, a, valid_in, f, valid_out) begin
 	assign w_sum = w_mult + f;
 
 	op_dff inst1 (.d_in(w_sum), .enable_f(w_en_f), .clk(clk), .reset(reset), .f(f));
-end
+endmodule

@@ -1,4 +1,4 @@
-module dff (clk, reset, a, enable_a, dff_out)
+module dff (clk, reset, a, enable_a, dff_out) begin
 	input clk, reset, enable_a;
 	input [7:0] a; 
 	output logic [7:0] dff_out;
@@ -15,7 +15,7 @@ module dff (clk, reset, a, enable_a, dff_out)
 	end
 end
 
-module control (valid_in, valid_out, enable_a, enable_f)
+module control (valid_in, valid_out, enable_a, enable_f) begin
 	input valid_in;
 	output logic valid_out, enable_a, enable_f;
 
@@ -31,7 +31,7 @@ module control (valid_in, valid_out, enable_a, enable_f)
 	end
 end
 
-module op_dff (d_in, enable_f, clk, reset, f)
+module op_dff (d_in, enable_f, clk, reset, f) begin
 	input clk, reset, enable_f;
 	input [19:0] d_in; 
 	output logic [19:0] f;
@@ -49,7 +49,7 @@ module op_dff (d_in, enable_f, clk, reset, f)
 end
 
 		
-module part2(clk, reset, a, valid_in, f, valid_out);
+module part2(clk, reset, a, valid_in, f, valid_out) begin
 	input clk, reset, valid_in;
 	input [7:0] a; 
 	output logic [19:0] f;

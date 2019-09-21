@@ -38,3 +38,7 @@ module part2(clk, reset, a, valid_in, f, valid_out);
 	input [7:0] a; 
 	output logic [19:0] f;
 	output logic valid_out;
+	output logic [15:0] mult_out;
+	s
+
+	dff inst1 (.clk(clk), .a(a), .reset(reset), .enable_a(enable_a), .dff_out(dff_out));

@@ -8,28 +8,32 @@ module dff (clk, reset, a, enable_a, dff_out);
          dff_out <= 0;
       else if ((reset == 0) && (enable_a == 1))
          dff_out <= a;
-      else if (enable_a == 0)
+      /*else if (enable_a == 0)
          dff_out <= 0;
       else
-         dff_out <= 0;
+         dff_out <= 0;*/
    end
 endmodule
 
-module control (valid_in, valid_out, enable_a, enable_f);
-   input valid_in;
+module control (clk,valid_in, valid_out, enable_a, enable_f);
+   input clk, valid_in;
    output logic valid_out, enable_a, enable_f;
 
-   always_comb begin
-      if (valid_in == 1) begin
-         enable_a = 1;
-         enable_f = 1;
-         valid_out = 1;
-      end
-      else begin
-         enable_a = 0;
-         enable_f = 0;
-         valid_out = 0;
-      end
+   always_ff@(posedge clk) begin
+      if (valid_in == 1) 
+         enable_a <= 1;
+      else 
+         enable_a <= 0;
+      
+      if (enable_a == 1)
+         enable_f <= 1;
+      else 
+         enable_f <= 0;
+      
+      if(enable_f == 1)
+         valid_out <= 1;
+      else 
+         valid_out <= 0;
    end
 endmodule
 
@@ -43,10 +47,10 @@ module op_dff (d_in, enable_f, clk, reset, f);
          f <= 0;
       else if ((reset == 0) && (enable_f == 1))
          f <= d_in;
-      else if (enable_f == 0)
+      /*else if (enable_f == 0)
          f <= 0;
       else
-         f <= 0;
+         f <= 0;*/
    end
 endmodule
 
@@ -61,7 +65,7 @@ module part2(clk, reset, a, valid_in, f, valid_out);
    wire logic [15:0] w_mult;
    wire logic [19:0] w_sum;
 
-   control i0 (.valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f));
+   control i0 ( .clk(clk),.valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f));
    dff i1 (.clk(clk), .a(a), .reset(reset), .enable_a(w_en_a), .dff_out(w_dff));
 
    assign w_mult = w_dff * w_dff;

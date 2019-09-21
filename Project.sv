@@ -8,7 +8,7 @@ module dff (clk, reset, a, enable_a, dff_out)
 			dff_out <= 0;
 		else if ((reset == 0) && (enable_a = 1))
 			dff_out <= a;
-		else if (valid == 0)
+		else if (enable_a == 0)
 			dff_out <= 0;
 		else
 			dff_out <= 0;
@@ -30,6 +30,24 @@ module control (valid_in, valid_out, enable_a, enable_f)
 			valid_out = 0;
 	end
 end
+
+module op_dff (d_in, enable_f, clk, reset, f)
+	input clk, reset, enable_f;
+	input [19:0] d_in; 
+	output logic [19:0] f;
+
+	always_ff @(posedge clk) begin
+		if (reset == 1)
+			f <= 0;
+		else if ((reset == 0) && (enable_f = 1))
+			f <= d_in;
+		else if (enable_f == 0)
+			f <= 0;
+		else
+			f <= 0;
+	end
+end
+
 		
 module part2(clk, reset, a, valid_in, f, valid_out);
 	input clk, reset, valid_in;
@@ -46,3 +64,6 @@ module part2(clk, reset, a, valid_in, f, valid_out);
 
 	assign w_mult = w_dff * w_dff;
 	assign w_sum = w_mult + f;
+
+	op_dff inst1 (.d_in(w_sum), .enable_f(w_en_f), .clk(clk), .reset(reset), .f(f));
+end

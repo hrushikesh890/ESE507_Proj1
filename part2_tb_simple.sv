@@ -15,23 +15,22 @@ module dff (clk, reset, a, enable_a, dff_out);
 	end
 endmodule
 
-module control (clk,valid_in, valid_out, enable_a, enable_f);
-	input clk, valid_in;
+module control (clk,valid_in, valid_out, enable_a, enable_f, reset);
+	input clk, valid_in, reset;
 	output logic valid_out, enable_a, enable_f;
 
 	always_comb begin
 		if (reset == 1) begin
 			enable_a = 0;
-			enable_f = 0;
-			valid_out = 0;
 		end
 		else begin
 			enable_a = valid_in;
 		end
+	end
 
 	always_ff@(posedge clk) begin
 		enable_f <= enable_a;
-		valid_out <= enable_a;
+		valid_out <= enable_f;
 	end
 endmodule
 
@@ -63,7 +62,7 @@ module part2(clk, reset, a, valid_in, f, valid_out);
 	wire logic [15:0] w_mult;
 	wire logic [19:0] w_sum;
 
-	control i0 ( .clk(clk),.valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f));
+	control i0 ( .clk(clk),.valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f), .reset(reset));
 	dff i1 (.clk(clk), .a(a), .reset(reset), .enable_a(w_en_a), .dff_out(w_dff));
 
 	assign w_mult = w_dff * w_dff;

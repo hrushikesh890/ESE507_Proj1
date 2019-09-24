@@ -20,17 +20,19 @@ module control (clk,valid_in, valid_out, enable_a, enable_f, reset);
 	output logic valid_out, enable_a, enable_f;
 
 	always_comb begin
-		if (reset == 1) begin
-			enable_a = 0;
-		end
-		else begin
 			enable_a = valid_in;
-		end
 	end
 
 	always_ff@(posedge clk) begin
-		enable_f <= enable_a;
-		valid_out <= enable_f;
+		if (reset == 1) begin
+			enable_a <= 0;
+			enable_f <= 0;
+			valid_out <= 0;
+		end
+		else begin	 
+			enable_f <= enable_a;
+			valid_out <= enable_f;
+		end
 	end
 endmodule
 

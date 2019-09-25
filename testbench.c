@@ -20,7 +20,7 @@ int main()
     valid_in = (rand() % (upper - lower + 1)) + lower;
     // reset = (rand() % (upper - lower + 1)) + lower; 
     
-    fprintf(inputdata,  "Reset = %d valid_in = %d a = %d\n", reset, valid_in, a);
+    fprintf(inputdata,  "Reset = %x valid_in = %x a = %x\n", reset, valid_in, a);
     
     if(reset == 1)
     {

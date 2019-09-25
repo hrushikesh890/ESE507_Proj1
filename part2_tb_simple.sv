@@ -25,7 +25,6 @@ module control (clk,valid_in, valid_out, enable_a, enable_f, reset);
 
 	always_ff@(posedge clk) begin
 		if (reset == 1) begin
-			enable_a <= 0;
 			enable_f <= 0;
 			valid_out <= 0;
 		end
@@ -100,11 +99,11 @@ module tb_part2();
 	initial begin
 
 	  // Before first clock edge, initialize
-	  reset = 1;
+	  reset = 0;
 	  a = 0;
 	  valid_in = 0;
 
-	  @(posedge clk);
+	  /* @(posedge clk);
 	  #1; // After 1 posedge
 	  reset = 0; a = 10; valid_in = 0;
 	  @(posedge clk);
@@ -112,7 +111,7 @@ module tb_part2();
 	  a = 21; valid_in = 1;
 	  @(posedge clk);
 	  #1; // After 3 posedges
-	  a = 36; valid_in = 1;
+	  a =  36; valid_in = 1;
 	  @(posedge clk);
 	  #1; // After 4 posedges
 	  a = 40; valid_in = 0;
@@ -128,6 +127,12 @@ module tb_part2();
 	  @(posedge clk);
 	  #1; // After 8 posedges
 	  a = 255;  valid_in = 1;
+	  @(posedge clk);
+	  #1; // After 9 posedges
+	  a = 64;  valid_in = 1;
+	  @(posedge clk);
+	  #1; // After 10 posedges
+	  reset = 1;  valid_in = 1; a = 1; 
 
 	end // initial begin
 
@@ -180,10 +185,23 @@ module tb_part2();
 	  @(posedge clk);
 	  #1; // After 10 posedges
 	  $display("valid_out = %b. Expected value is 1.", valid_out);
-	  $display("f = %d. Expected value is 56458.", f);
+	  $display("f = %d. Expected value is 70858.", f);
+
+	  @(posedge clk);
+	  #1; // After 11 posedges
+	  $display("valid_out = %b. Expected value is 1.", valid_out);
+	  $display("f = %d. Expected value is 74954.", f);
+
+	  @(posedge clk);
+	  #1; // After 12 posedges
+	  $display("valid_out = %b. Expected value is 0.", valid_out);
+	  $display("f = %d. Expected value is 0.", f); 
+ 
 
 	  #20;
 	  $finish;
-	end
+	end */
+
+	
 
 endmodule // tb_part2_mac

@@ -122,6 +122,13 @@ module tb_part2();
 	  @(posedge clk);
 	  #1; // After 6 posedges
 	  a = 64;  valid_in = 1;
+	  @(posedge clk);
+	  #1; // After 7 posedges
+	  a = 0;  valid_in = 1;
+	  @(posedge clk);
+	  #1; // After 8 posedges
+	  a = 255;  valid_in = 1;
+
 	end // initial begin
 
 	initial begin
@@ -164,6 +171,16 @@ module tb_part2();
 	  #1; // After 8 posedges
 	  $display("valid_out = %b. Expected value is 1.", valid_out);
 	  $display("f = %d. Expected value is 5833.", f);
+
+	  @(posedge clk);
+	  #1; // After 9 posedges
+	  $display("valid_out = %b. Expected value is 1.", valid_out);
+	  $display("f = %d. Expected value is 5833.", f);
+
+	  @(posedge clk);
+	  #1; // After 10 posedges
+	  $display("valid_out = %b. Expected value is 1.", valid_out);
+	  $display("f = %d. Expected value is 56458.", f);
 
 	  #20;
 	  $finish;

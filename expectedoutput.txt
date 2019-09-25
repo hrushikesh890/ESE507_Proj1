@@ -1,1001 +1,1001 @@
-Valid_out = 0 f = 0
-Valid_out = 0 f = 0
-Valid_out = 0 f = 0
-Valid_out = 0 f = 0
-Valid_out = 1 f = 53824
-Valid_out = 1 f = 54553
-Valid_out = 1 f = 56762
-Valid_out = 0 f = 56762
-Valid_out = 0 f = 56762
-Valid_out = 1 f = 120266
-Valid_out = 0 f = 120266
-Valid_out = 1 f = 165210
-Valid_out = 0 f = 165210
-Valid_out = 1 f = 169834
-Valid_out = 0 f = 169834
-Valid_out = 0 f = 169834
-Valid_out = 0 f = 169834
-Valid_out = 0 f = 169834
-Valid_out = 1 f = 188878
-Valid_out = 1 f = 194654
-Valid_out = 1 f = 244830
-Valid_out = 1 f = 257826
-Valid_out = 1 f = 263910
-Valid_out = 1 f = 286111
-Valid_out = 0 f = 286111
-Valid_out = 1 f = 342755
-Valid_out = 1 f = 400355
-Valid_out = 1 f = 420519
-Valid_out = 0 f = 420519
-Valid_out = 0 f = 420519
-Valid_out = 0 f = 420519
-Valid_out = 0 f = 420519
-Valid_out = 0 f = 420519
-Valid_out = 1 f = 420715
-Valid_out = 0 f = 420715
-Valid_out = 1 f = 437099
-Valid_out = 1 f = 474348
-Valid_out = 0 f = 474348
-Valid_out = 0 f = 474348
-Valid_out = 0 f = 474348
-Valid_out = 0 f = 474348
-Valid_out = 0 f = 474348
-Valid_out = 1 f = 486229
-Valid_out = 0 f = 486229
-Valid_out = 0 f = 486229
-Valid_out = 0 f = 486229
-Valid_out = 0 f = 486229
-Valid_out = 0 f = 486229
-Valid_out = 0 f = 486229
-Valid_out = 1 f = 497254
-Valid_out = 0 f = 497254
-Valid_out = 1 f = 500170
-Valid_out = 0 f = 500170
-Valid_out = 1 f = 531499
-Valid_out = 1 f = 581675
-Valid_out = 0 f = 581675
-Valid_out = 0 f = 581675
-Valid_out = 0 f = 581675
-Valid_out = 1 f = 622884
-Valid_out = 1 f = 654568
-Valid_out = 1 f = 713617
-Valid_out = 0 f = 713617
-Valid_out = 1 f = 715642
-Valid_out = 1 f = 717242
-Valid_out = 0 f = 717242
-Valid_out = 1 f = 735738
-Valid_out = 0 f = 735738
-Valid_out = 1 f = 770334
-Valid_out = 0 f = 770334
-Valid_out = 1 f = 773698
-Valid_out = 0 f = 773698
-Valid_out = 0 f = 773698
-Valid_out = 1 f = 776614
-Valid_out = 0 f = 776614
-Valid_out = 0 f = 776614
-Valid_out = 1 f = 776623
-Valid_out = 0 f = 776623
-Valid_out = 1 f = 807599
-Valid_out = 0 f = 807599
-Valid_out = 0 f = 807599
-Valid_out = 1 f = 818835
-Valid_out = 0 f = 818835
-Valid_out = 1 f = 857251
-Valid_out = 1 f = 861220
-Valid_out = 0 f = 861220
-Valid_out = 0 f = 861220
-Valid_out = 0 f = 861220
-Valid_out = 0 f = 861220
-Valid_out = 0 f = 861220
-Valid_out = 1 f = 877604
-Valid_out = 1 f = 919629
-Valid_out = 1 f = 940078
-Valid_out = 1 f = 977327
-Valid_out = 0 f = 977327
-Valid_out = 1 f = 977856
-Valid_out = 0 f = 977856
-Valid_out = 1 f = 994497
-Valid_out = 1 f = 1005313
-Valid_out = 0 f = 1005313
-Valid_out = 0 f = 1005313
-Valid_out = 0 f = 1005313
-Valid_out = 0 f = 1005313
-Valid_out = 1 f = 1009282
-Valid_out = 0 f = 1009282
-Valid_out = 1 f = 1035526
-Valid_out = 1 f = 1063082
-Valid_out = 1 f = 1118778
-Valid_out = 0 f = 1118778
-Valid_out = 0 f = 1118778
-Valid_out = 1 f = 1127994
-Valid_out = 1 f = 1161850
-Valid_out = 1 f = 1162019
-Valid_out = 0 f = 1162019
-Valid_out = 1 f = 1177895
-Valid_out = 0 f = 1177895
-Valid_out = 0 f = 1177895
-Valid_out = 1 f = 1180199
-Valid_out = 1 f = 1209099
-Valid_out = 0 f = 1209099
-Valid_out = 0 f = 1209099
-Valid_out = 0 f = 1209099
-Valid_out = 0 f = 1209099
-Valid_out = 1 f = 1213860
-Valid_out = 1 f = 1236360
-Valid_out = 0 f = 1236360
-Valid_out = 0 f = 1236360
-Valid_out = 0 f = 1236360
-Valid_out = 0 f = 1236360
-Valid_out = 1 f = 1276360
-Valid_out = 0 f = 1276360
-Valid_out = 1 f = 1281121
-Valid_out = 1 f = 1282565
-Valid_out = 0 f = 1282565
-Valid_out = 1 f = 1335006
-Valid_out = 1 f = 1344610
-Valid_out = 0 f = 1344610
-Valid_out = 1 f = 1353635
-Valid_out = 0 f = 1353635
-Valid_out = 0 f = 1353635
-Valid_out = 0 f = 1353635
-Valid_out = 1 f = 1397735
-Valid_out = 0 f = 1397735
-Valid_out = 1 f = 1456784
-Valid_out = 1 f = 1479284
-Valid_out = 1 f = 1483128
-Valid_out = 1 f = 1509049
-Valid_out = 1 f = 1537610
-Valid_out = 1 f = 1599611
-Valid_out = 0 f = 1599611
-Valid_out = 0 f = 1599611
-Valid_out = 0 f = 1599611
-Valid_out = 0 f = 1599611
-Valid_out = 0 f = 1599611
-Valid_out = 1 f = 1601915
-Valid_out = 1 f = 1616799
-Valid_out = 0 f = 1616799
-Valid_out = 0 f = 1616799
-Valid_out = 0 f = 1616799
-Valid_out = 0 f = 1616799
-Valid_out = 0 f = 1616799
-Valid_out = 1 f = 1635295
-Valid_out = 1 f = 1651679
-Valid_out = 1 f = 1656579
-Valid_out = 0 f = 1656579
-Valid_out = 1 f = 1664148
-Valid_out = 0 f = 1664148
-Valid_out = 0 f = 1664148
-Valid_out = 0 f = 1664148
-Valid_out = 0 f = 1664148
-Valid_out = 0 f = 1664148
-Valid_out = 1 f = 1706173
-Valid_out = 1 f = 1728077
-Valid_out = 1 f = 1762673
-Valid_out = 0 f = 1762673
-Valid_out = 1 f = 1805522
-Valid_out = 1 f = 1818978
-Valid_out = 0 f = 1818978
-Valid_out = 0 f = 1818978
-Valid_out = 1 f = 1830859
-Valid_out = 0 f = 1830859
-Valid_out = 0 f = 1830859
-Valid_out = 1 f = 1836043
-Valid_out = 0 f = 1836043
-Valid_out = 0 f = 1836043
-Valid_out = 0 f = 1836043
-Valid_out = 1 f = 1871387
-Valid_out = 1 f = 1883051
-Valid_out = 0 f = 1883051
-Valid_out = 0 f = 1883051
-Valid_out = 1 f = 1908015
-Valid_out = 0 f = 1908015
-Valid_out = 1 f = 1917040
-Valid_out = 1 f = 1917089
-Valid_out = 0 f = 1917089
-Valid_out = 0 f = 1917089
-Valid_out = 0 f = 1917089
-Valid_out = 1 f = 1957490
-Valid_out = 1 f = 2002011
-Valid_out = 0 f = 2002011
-Valid_out = 0 f = 2002011
-Valid_out = 0 f = 2002011
-Valid_out = 1 f = 2048667
-Valid_out = 1 f = 2106748
-Valid_out = 1 f = 2147957
-Valid_out = 1 f = 2181446
-Valid_out = 1 f = 2183847
-Valid_out = 0 f = 2183847
-Valid_out = 0 f = 2183847
-Valid_out = 0 f = 2183847
-Valid_out = 0 f = 2183847
-Valid_out = 0 f = 2183847
-Valid_out = 0 f = 2183847
-Valid_out = 0 f = 2183847
-Valid_out = 1 f = 2193648
-Valid_out = 1 f = 2230512
-Valid_out = 1 f = 2295028
-Valid_out = 0 f = 2295028
-Valid_out = 1 f = 2319992
-Valid_out = 1 f = 2320217
-Valid_out = 0 f = 2320217
-Valid_out = 0 f = 2320217
-Valid_out = 0 f = 2320217
-Valid_out = 0 f = 2320217
-Valid_out = 1 f = 2363481
-Valid_out = 1 f = 2423017
-Valid_out = 1 f = 2465866
-Valid_out = 0 f = 2465866
-Valid_out = 1 f = 2466227
-Valid_out = 1 f = 2521923
-Valid_out = 0 f = 2521923
-Valid_out = 0 f = 2521923
-Valid_out = 0 f = 2521923
-Valid_out = 0 f = 2521923
-Valid_out = 1 f = 2538307
-Valid_out = 1 f = 2568583
-Valid_out = 0 f = 2568583
-Valid_out = 1 f = 2602072
-Valid_out = 1 f = 2644508
-Valid_out = 1 f = 2702589
-Valid_out = 0 f = 2702589
-Valid_out = 0 f = 2702589
-Valid_out = 0 f = 2702589
-Valid_out = 1 f = 2765089
-Valid_out = 0 f = 2765089
-Valid_out = 1 f = 2785825
-Valid_out = 0 f = 2785825
-Valid_out = 0 f = 2785825
-Valid_out = 0 f = 2785825
-Valid_out = 1 f = 2801450
-Valid_out = 1 f = 2821614
-Valid_out = 0 f = 2821614
-Valid_out = 1 f = 2850855
-Valid_out = 0 f = 2850855
-Valid_out = 1 f = 2852619
-Valid_out = 0 f = 2852619
-Valid_out = 1 f = 2853244
-Valid_out = 0 f = 2853244
-Valid_out = 0 f = 2853244
-Valid_out = 0 f = 2853244
-Valid_out = 1 f = 2858144
-Valid_out = 1 f = 2859168
-Valid_out = 0 f = 2859168
-Valid_out = 1 f = 2859457
-Valid_out = 0 f = 2859457
-Valid_out = 0 f = 2859457
-Valid_out = 0 f = 2859457
-Valid_out = 1 f = 2923973
-Valid_out = 0 f = 2923973
-Valid_out = 1 f = 2973702
-Valid_out = 0 f = 2973702
-Valid_out = 0 f = 2973702
-Valid_out = 0 f = 2973702
-Valid_out = 1 f = 3002602
-Valid_out = 0 f = 3002602
-Valid_out = 1 f = 3005851
-Valid_out = 1 f = 3034412
-Valid_out = 1 f = 3034988
-Valid_out = 1 f = 3088349
-Valid_out = 0 f = 3088349
-Valid_out = 0 f = 3088349
-Valid_out = 1 f = 3104225
-Valid_out = 1 f = 3141861
-Valid_out = 1 f = 3187657
-Valid_out = 1 f = 3223378
-Valid_out = 0 f = 3223378
-Valid_out = 0 f = 3223378
-Valid_out = 1 f = 3258722
-Valid_out = 0 f = 3258722
-Valid_out = 0 f = 3258722
-Valid_out = 1 f = 3263906
-Valid_out = 0 f = 3263906
-Valid_out = 1 f = 3264075
-Valid_out = 0 f = 3264075
-Valid_out = 0 f = 3264075
-Valid_out = 1 f = 3314251
-Valid_out = 1 f = 3353455
-Valid_out = 1 f = 3381011
-Valid_out = 1 f = 3429411
-Valid_out = 1 f = 3442407
-Valid_out = 1 f = 3444907
-Valid_out = 0 f = 3444907
-Valid_out = 1 f = 3445532
-Valid_out = 1 f = 3445557
-Valid_out = 1 f = 3500782
-Valid_out = 0 f = 3500782
-Valid_out = 1 f = 3503282
-Valid_out = 1 f = 3504726
-Valid_out = 1 f = 3532950
-Valid_out = 1 f = 3535654
-Valid_out = 0 f = 3535654
-Valid_out = 0 f = 3535654
-Valid_out = 1 f = 3548879
-Valid_out = 1 f = 3575448
-Valid_out = 1 f = 3591324
-Valid_out = 0 f = 3591324
-Valid_out = 1 f = 3628960
-Valid_out = 1 f = 3649696
-Valid_out = 1 f = 3652612
-Valid_out = 0 f = 3652612
-Valid_out = 0 f = 3652612
-Valid_out = 1 f = 3660008
-Valid_out = 0 f = 3660008
-Valid_out = 1 f = 3677964
-Valid_out = 0 f = 3677964
-Valid_out = 1 f = 3680773
-Valid_out = 1 f = 3723622
-Valid_out = 0 f = 3723622
-Valid_out = 0 f = 3723622
-Valid_out = 0 f = 3723622
-Valid_out = 0 f = 3723622
-Valid_out = 0 f = 3723622
-Valid_out = 1 f = 3725558
-Valid_out = 0 f = 3725558
-Valid_out = 0 f = 3725558
-Valid_out = 1 f = 3742982
-Valid_out = 0 f = 3742982
-Valid_out = 1 f = 3747078
-Valid_out = 1 f = 3754474
-Valid_out = 0 f = 3754474
-Valid_out = 1 f = 3771115
-Valid_out = 0 f = 3771115
-Valid_out = 0 f = 3771115
-Valid_out = 1 f = 3792724
-Valid_out = 1 f = 3806648
-Valid_out = 1 f = 3870152
-Valid_out = 1 f = 3895433
-Valid_out = 1 f = 3897282
-Valid_out = 1 f = 3897382
-Valid_out = 1 f = 3899498
-Valid_out = 0 f = 3899498
-Valid_out = 1 f = 3953787
-Valid_out = 1 f = 3973668
-Valid_out = 1 f = 4038184
-Valid_out = 0 f = 4038184
-Valid_out = 0 f = 4038184
-Valid_out = 0 f = 4038184
-Valid_out = 1 f = 4075820
-Valid_out = 1 f = 4133420
-Valid_out = 0 f = 4133420
-Valid_out = 0 f = 4133420
-Valid_out = 0 f = 4133420
-Valid_out = 1 f = 4143621
-Valid_out = 0 f = 4143621
-Valid_out = 1 f = 4182037
-Valid_out = 1 f = 4191062
-Valid_out = 0 f = 4191062
-Valid_out = 1 f = 4210662
-Valid_out = 0 f = 4210662
-Valid_out = 0 f = 4210662
-Valid_out = 0 f = 4210662
-Valid_out = 1 f = 4255606
-Valid_out = 1 f = 4281850
-Valid_out = 1 f = 4286750
-Valid_out = 0 f = 4286750
-Valid_out = 1 f = 4348751
-Valid_out = 1 f = 4374032
-Valid_out = 0 f = 4374032
-Valid_out = 0 f = 4374032
-Valid_out = 1 f = 4387488
-Valid_out = 0 f = 4387488
-Valid_out = 0 f = 4387488
-Valid_out = 1 f = 4388272
-Valid_out = 0 f = 4388272
-Valid_out = 1 f = 4426688
-Valid_out = 1 f = 4484769
-Valid_out = 1 f = 4504650
-Valid_out = 0 f = 4504650
-Valid_out = 0 f = 4504650
-Valid_out = 1 f = 4542675
-Valid_out = 0 f = 4542675
-Valid_out = 1 f = 4573651
-Valid_out = 1 f = 4573795
-Valid_out = 1 f = 4578979
-Valid_out = 0 f = 4578979
-Valid_out = 1 f = 4591975
-Valid_out = 1 f = 4612711
-Valid_out = 1 f = 4619272
-Valid_out = 0 f = 4619272
-Valid_out = 1 f = 4622753
-Valid_out = 0 f = 4622753
-Valid_out = 1 f = 4622757
-Valid_out = 0 f = 4622757
-Valid_out = 0 f = 4622757
-Valid_out = 0 f = 4622757
-Valid_out = 0 f = 4622757
-Valid_out = 1 f = 4677982
-Valid_out = 1 f = 4677998
-Valid_out = 0 f = 4677998
-Valid_out = 0 f = 4677998
-Valid_out = 0 f = 4677998
-Valid_out = 1 f = 4679087
-Valid_out = 1 f = 4689491
-Valid_out = 1 f = 4694391
-Valid_out = 1 f = 4701960
-Valid_out = 1 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 0 f = 4750360
-Valid_out = 1 f = 4764284
-Valid_out = 1 f = 4771680
-Valid_out = 1 f = 4817905
-Valid_out = 1 f = 4818481
-Valid_out = 0 f = 4818481
-Valid_out = 0 f = 4818481
-Valid_out = 0 f = 4818481
-Valid_out = 1 f = 4823522
-Valid_out = 0 f = 4823522
-Valid_out = 0 f = 4823522
-Valid_out = 0 f = 4823522
-Valid_out = 0 f = 4823522
-Valid_out = 1 f = 4849766
-Valid_out = 1 f = 4895562
-Valid_out = 1 f = 4929051
-Valid_out = 0 f = 4929051
-Valid_out = 1 f = 4930347
-Valid_out = 1 f = 4960276
-Valid_out = 1 f = 4977437
-Valid_out = 1 f = 4980686
-Valid_out = 1 f = 4981911
-Valid_out = 0 f = 4981911
-Valid_out = 1 f = 4982107
-Valid_out = 0 f = 4982107
-Valid_out = 1 f = 4998236
-Valid_out = 0 f = 4998236
-Valid_out = 1 f = 5045325
-Valid_out = 1 f = 5083741
-Valid_out = 0 f = 5083741
-Valid_out = 0 f = 5083741
-Valid_out = 0 f = 5083741
-Valid_out = 1 f = 5108705
-Valid_out = 1 f = 5138289
-Valid_out = 1 f = 5144218
-Valid_out = 0 f = 5144218
-Valid_out = 1 f = 5168554
-Valid_out = 0 f = 5168554
-Valid_out = 1 f = 5171363
-Valid_out = 1 f = 5175852
-Valid_out = 0 f = 5175852
-Valid_out = 1 f = 5193013
-Valid_out = 0 f = 5193013
-Valid_out = 1 f = 5208889
-Valid_out = 1 f = 5255545
-Valid_out = 1 f = 5301341
-Valid_out = 1 f = 5329230
-Valid_out = 1 f = 5339031
-Valid_out = 1 f = 5346256
-Valid_out = 0 f = 5346256
-Valid_out = 0 f = 5346256
-Valid_out = 1 f = 5347856
-Valid_out = 1 f = 5392377
-Valid_out = 0 f = 5392377
-Valid_out = 0 f = 5392377
-Valid_out = 1 f = 5434813
-Valid_out = 1 f = 5436749
-Valid_out = 1 f = 5456913
-Valid_out = 0 f = 5456913
-Valid_out = 1 f = 5506642
-Valid_out = 1 f = 5511131
-Valid_out = 0 f = 5511131
-Valid_out = 0 f = 5511131
-Valid_out = 1 f = 5513340
-Valid_out = 1 f = 5548309
-Valid_out = 0 f = 5548309
-Valid_out = 1 f = 5557334
-Valid_out = 0 f = 5557334
-Valid_out = 0 f = 5557334
-Valid_out = 0 f = 5557334
-Valid_out = 1 f = 5567738
-Valid_out = 0 f = 5567738
-Valid_out = 1 f = 5575838
-Valid_out = 1 f = 5578754
-Valid_out = 1 f = 5582475
-Valid_out = 1 f = 5602356
-Valid_out = 1 f = 5643160
-Valid_out = 0 f = 5643160
-Valid_out = 1 f = 5659801
-Valid_out = 1 f = 5680537
-Valid_out = 1 f = 5688637
-Valid_out = 0 f = 5688637
-Valid_out = 0 f = 5688637
-Valid_out = 0 f = 5688637
-Valid_out = 1 f = 5688701
-Valid_out = 0 f = 5688701
-Valid_out = 1 f = 5691005
-Valid_out = 0 f = 5691005
-Valid_out = 0 f = 5691005
-Valid_out = 1 f = 5712321
-Valid_out = 1 f = 5717946
-Valid_out = 1 f = 5759562
-Valid_out = 0 f = 5759562
-Valid_out = 0 f = 5759562
-Valid_out = 0 f = 5759562
-Valid_out = 1 f = 5791603
-Valid_out = 0 f = 5791603
-Valid_out = 0 f = 5791603
-Valid_out = 0 f = 5791603
-Valid_out = 0 f = 5791603
-Valid_out = 0 f = 5791603
-Valid_out = 0 f = 5791603
-Valid_out = 0 f = 5791603
-Valid_out = 1 f = 5824727
-Valid_out = 0 f = 5824727
-Valid_out = 0 f = 5824727
-Valid_out = 1 f = 5835336
-Valid_out = 0 f = 5835336
-Valid_out = 0 f = 5835336
-Valid_out = 0 f = 5835336
-Valid_out = 1 f = 5873752
-Valid_out = 1 f = 5912956
-Valid_out = 1 f = 5925277
-Valid_out = 1 f = 5954177
-Valid_out = 0 f = 5954177
-Valid_out = 1 f = 5963978
-Valid_out = 1 f = 5981667
-Valid_out = 0 f = 5981667
-Valid_out = 1 f = 5985148
-Valid_out = 0 f = 5985148
-Valid_out = 1 f = 6013372
-Valid_out = 1 f = 6055397
-Valid_out = 1 f = 6086373
-Valid_out = 0 f = 6086373
-Valid_out = 1 f = 6098254
-Valid_out = 1 f = 6098450
-Valid_out = 0 f = 6098450
-Valid_out = 1 f = 6106914
-Valid_out = 0 f = 6106914
-Valid_out = 1 f = 6129414
-Valid_out = 1 f = 6129415
-Valid_out = 0 f = 6129415
-Valid_out = 1 f = 6169415
-Valid_out = 0 f = 6169415
-Valid_out = 0 f = 6169415
-Valid_out = 1 f = 6220491
-Valid_out = 1 f = 6281500
-Valid_out = 0 f = 6281500
-Valid_out = 0 f = 6281500
-Valid_out = 1 f = 6282400
-Valid_out = 0 f = 6282400
-Valid_out = 0 f = 6282400
-Valid_out = 1 f = 6282401
-Valid_out = 1 f = 6331242
-Valid_out = 0 f = 6331242
-Valid_out = 0 f = 6331242
-Valid_out = 1 f = 6343123
-Valid_out = 0 f = 6343123
-Valid_out = 1 f = 6345427
-Valid_out = 1 f = 6348791
-Valid_out = 0 f = 6348791
-Valid_out = 1 f = 6403547
-Valid_out = 1 f = 6445163
-Valid_out = 0 f = 6445163
-Valid_out = 1 f = 6491388
-Valid_out = 0 f = 6491388
-Valid_out = 0 f = 6491388
-Valid_out = 0 f = 6491388
-Valid_out = 0 f = 6491388
-Valid_out = 1 f = 6527109
-Valid_out = 0 f = 6527109
-Valid_out = 1 f = 6573334
-Valid_out = 0 f = 6573334
-Valid_out = 1 f = 6582743
-Valid_out = 1 f = 6591024
-Valid_out = 0 f = 6591024
-Valid_out = 1 f = 6624880
-Valid_out = 0 f = 6624880
-Valid_out = 0 f = 6624880
-Valid_out = 1 f = 6668144
-Valid_out = 0 f = 6668144
-Valid_out = 1 f = 6719220
-Valid_out = 0 f = 6719220
-Valid_out = 0 f = 6719220
-Valid_out = 1 f = 6742324
-Valid_out = 0 f = 6742324
-Valid_out = 1 f = 6752125
-Valid_out = 0 f = 6752125
-Valid_out = 1 f = 6756614
-Valid_out = 0 f = 6756614
-Valid_out = 0 f = 6756614
-Valid_out = 1 f = 6761798
-Valid_out = 0 f = 6761798
-Valid_out = 0 f = 6761798
-Valid_out = 1 f = 6762474
-Valid_out = 0 f = 6762474
-Valid_out = 0 f = 6762474
-Valid_out = 1 f = 6764683
-Valid_out = 0 f = 6764683
-Valid_out = 1 f = 6766892
-Valid_out = 1 f = 6797517
-Valid_out = 0 f = 6797517
-Valid_out = 1 f = 6798417
-Valid_out = 1 f = 6835281
-Valid_out = 0 f = 6835281
-Valid_out = 0 f = 6835281
-Valid_out = 1 f = 6840465
-Valid_out = 0 f = 6840465
-Valid_out = 0 f = 6840465
-Valid_out = 0 f = 6840465
-Valid_out = 1 f = 6851914
-Valid_out = 1 f = 6878810
-Valid_out = 1 f = 6883571
-Valid_out = 1 f = 6946071
-Valid_out = 0 f = 6946071
-Valid_out = 1 f = 6946395
-Valid_out = 0 f = 6946395
-Valid_out = 1 f = 6947764
-Valid_out = 0 f = 6947764
-Valid_out = 0 f = 6947764
-Valid_out = 1 f = 6991028
-Valid_out = 0 f = 6991028
-Valid_out = 1 f = 7019928
-Valid_out = 0 f = 7019928
-Valid_out = 0 f = 7019928
-Valid_out = 1 f = 7059928
-Valid_out = 0 f = 7059928
-Valid_out = 0 f = 7059928
-Valid_out = 1 f = 7063897
-Valid_out = 0 f = 7063897
-Valid_out = 0 f = 7063897
-Valid_out = 0 f = 7063897
-Valid_out = 1 f = 7098493
-Valid_out = 1 f = 7115654
-Valid_out = 1 f = 7152903
-Valid_out = 1 f = 7167303
-Valid_out = 0 f = 7167303
-Valid_out = 0 f = 7167303
-Valid_out = 0 f = 7167303
-Valid_out = 1 f = 7168327
-Valid_out = 0 f = 7168327
-Valid_out = 1 f = 7169623
-Valid_out = 1 f = 7176679
-Valid_out = 1 f = 7176760
-Valid_out = 1 f = 7176904
-Valid_out = 1 f = 7179820
-Valid_out = 1 f = 7182421
-Valid_out = 1 f = 7183942
-Valid_out = 0 f = 7183942
-Valid_out = 1 f = 7190026
-Valid_out = 0 f = 7190026
-Valid_out = 1 f = 7190602
-Valid_out = 0 f = 7190602
-Valid_out = 1 f = 7233451
-Valid_out = 0 f = 7233451
-Valid_out = 1 f = 7256555
-Valid_out = 1 f = 7303211
-Valid_out = 1 f = 7304111
-Valid_out = 0 f = 7304111
-Valid_out = 0 f = 7304111
-Valid_out = 0 f = 7304111
-Valid_out = 0 f = 7304111
-Valid_out = 0 f = 7304111
-Valid_out = 0 f = 7304111
-Valid_out = 1 f = 7352511
-Valid_out = 1 f = 7354815
-Valid_out = 0 f = 7354815
-Valid_out = 1 f = 7359999
-Valid_out = 1 f = 7360099
-Valid_out = 1 f = 7360999
-Valid_out = 0 f = 7360999
-Valid_out = 0 f = 7360999
-Valid_out = 0 f = 7360999
-Valid_out = 1 f = 7361168
-Valid_out = 1 f = 7409568
-Valid_out = 1 f = 7411777
-Valid_out = 0 f = 7411777
-Valid_out = 0 f = 7411777
-Valid_out = 0 f = 7411777
-Valid_out = 0 f = 7411777
-Valid_out = 0 f = 7411777
-Valid_out = 0 f = 7411777
-Valid_out = 1 f = 7451378
-Valid_out = 1 f = 7485603
-Valid_out = 1 f = 7486044
-Valid_out = 0 f = 7486044
-Valid_out = 0 f = 7486044
-Valid_out = 1 f = 7549548
-Valid_out = 1 f = 7562317
-Valid_out = 1 f = 7603933
-Valid_out = 0 f = 7603933
-Valid_out = 1 f = 7657294
-Valid_out = 0 f = 7657294
-Valid_out = 1 f = 7661519
-Valid_out = 1 f = 7707744
-Valid_out = 1 f = 7762969
-Valid_out = 1 f = 7763165
-Valid_out = 1 f = 7819334
-Valid_out = 0 f = 7819334
-Valid_out = 1 f = 7846890
-Valid_out = 1 f = 7862515
-Valid_out = 0 f = 7862515
-Valid_out = 0 f = 7862515
-Valid_out = 0 f = 7862515
-Valid_out = 0 f = 7862515
-Valid_out = 1 f = 7867699
-Valid_out = 1 f = 7912643
-Valid_out = 0 f = 7912643
-Valid_out = 1 f = 7937924
-Valid_out = 0 f = 7937924
-Valid_out = 1 f = 7938500
-Valid_out = 0 f = 7938500
-Valid_out = 0 f = 7938500
-Valid_out = 0 f = 7938500
-Valid_out = 0 f = 7938500
-Valid_out = 1 f = 7958100
-Valid_out = 0 f = 7958100
-Valid_out = 0 f = 7958100
-Valid_out = 1 f = 7959700
-Valid_out = 0 f = 7959700
-Valid_out = 1 f = 8008541
-Valid_out = 1 f = 8037782
-Valid_out = 1 f = 8049018
-Valid_out = 1 f = 8084362
-Valid_out = 1 f = 8099738
-Valid_out = 1 f = 8116122
-Valid_out = 1 f = 8116126
-Valid_out = 0 f = 8116126
-Valid_out = 1 f = 8118062
-Valid_out = 0 f = 8118062
-Valid_out = 1 f = 8125983
-Valid_out = 0 f = 8125983
-Valid_out = 0 f = 8125983
-Valid_out = 1 f = 8162847
-Valid_out = 1 f = 8182728
-Valid_out = 1 f = 8184024
-Valid_out = 1 f = 8240668
-Valid_out = 0 f = 8240668
-Valid_out = 0 f = 8240668
-Valid_out = 1 f = 8250272
-Valid_out = 0 f = 8250272
-Valid_out = 0 f = 8250272
-Valid_out = 0 f = 8250272
-Valid_out = 1 f = 8266913
-Valid_out = 0 f = 8266913
-Valid_out = 0 f = 8266913
-Valid_out = 0 f = 8266913
-Valid_out = 0 f = 8266913
-Valid_out = 0 f = 8266913
-Valid_out = 1 f = 8274834
-Valid_out = 1 f = 8323234
-Valid_out = 0 f = 8323234
-Valid_out = 1 f = 8329163
-Valid_out = 0 f = 8329163
-Valid_out = 1 f = 8329388
-Valid_out = 1 f = 8335629
-Valid_out = 0 f = 8335629
-Valid_out = 0 f = 8335629
-Valid_out = 1 f = 8368029
-Valid_out = 1 f = 8368513
-Valid_out = 0 f = 8368513
-Valid_out = 0 f = 8368513
-Valid_out = 1 f = 8403857
-Valid_out = 0 f = 8403857
-Valid_out = 1 f = 8405706
-Valid_out = 1 f = 8425587
-Valid_out = 0 f = 8425587
-Valid_out = 0 f = 8425587
-Valid_out = 1 f = 8475316
-Valid_out = 0 f = 8475316
-Valid_out = 1 f = 8490200
-Valid_out = 1 f = 8494296
-Valid_out = 0 f = 8494296
-Valid_out = 1 f = 8513065
-Valid_out = 1 f = 8569234
-Valid_out = 0 f = 8569234
-Valid_out = 1 f = 8606483
-Valid_out = 1 f = 8622359
-Valid_out = 0 f = 8622359
-Valid_out = 0 f = 8622359
-Valid_out = 1 f = 8622408
-Valid_out = 0 f = 8622408
-Valid_out = 1 f = 8643433
-Valid_out = 0 f = 8643433
-Valid_out = 0 f = 8643433
-Valid_out = 0 f = 8643433
-Valid_out = 0 f = 8643433
-Valid_out = 1 f = 8652842
-Valid_out = 1 f = 8666298
-Valid_out = 1 f = 8672227
-Valid_out = 1 f = 8691271
-Valid_out = 0 f = 8691271
-Valid_out = 1 f = 8730080
-Valid_out = 1 f = 8770481
-Valid_out = 1 f = 8770706
-Valid_out = 1 f = 8770787
-Valid_out = 1 f = 8770983
-Valid_out = 1 f = 8771152
-Valid_out = 0 f = 8771152
-Valid_out = 1 f = 8771377
-Valid_out = 1 f = 8807477
-Valid_out = 0 f = 8807477
-Valid_out = 1 f = 8807621
-Valid_out = 0 f = 8807621
-Valid_out = 1 f = 8809737
-Valid_out = 0 f = 8809737
-Valid_out = 1 f = 8844333
-Valid_out = 1 f = 8844349
-Valid_out = 0 f = 8844349
-Valid_out = 0 f = 8844349
-Valid_out = 0 f = 8844349
-Valid_out = 1 f = 8859974
-Valid_out = 1 f = 8886543
-Valid_out = 0 f = 8886543
-Valid_out = 1 f = 8927752
-Valid_out = 1 f = 8936777
-Valid_out = 0 f = 8936777
-Valid_out = 0 f = 8936777
-Valid_out = 0 f = 8936777
-Valid_out = 1 f = 8965338
-Valid_out = 1 f = 8965699
-Valid_out = 1 f = 8976935
-Valid_out = 0 f = 8976935
-Valid_out = 1 f = 8982864
-Valid_out = 0 f = 8982864
-Valid_out = 1 f = 8984308
-Valid_out = 1 f = 9045812
-Valid_out = 0 f = 9045812
-Valid_out = 0 f = 9045812
-Valid_out = 1 f = 9069528
-Valid_out = 1 f = 9085657
-Valid_out = 0 f = 9085657
-Valid_out = 1 f = 9088906
-Valid_out = 1 f = 9127322
-Valid_out = 1 f = 9189323
-Valid_out = 0 f = 9189323
-Valid_out = 0 f = 9189323
-Valid_out = 1 f = 9236412
-Valid_out = 0 f = 9236412
-Valid_out = 1 f = 9237436
-Valid_out = 0 f = 9237436
-Valid_out = 1 f = 9269477
-Valid_out = 1 f = 9324233
-Valid_out = 0 f = 9324233
-Valid_out = 1 f = 9356633
-Valid_out = 1 f = 9356957
-Valid_out = 1 f = 9412653
-Valid_out = 1 f = 9455502
-Valid_out = 0 f = 9455502
-Valid_out = 1 f = 9506578
-Valid_out = 1 f = 9506579
-Valid_out = 0 f = 9506579
-Valid_out = 0 f = 9506579
-Valid_out = 0 f = 9506579
-Valid_out = 1 f = 9522708
-Valid_out = 1 f = 9582244
-Valid_out = 1 f = 9619880
-Valid_out = 0 f = 9619880
-Valid_out = 1 f = 9638924
-Valid_out = 0 f = 9638924
-Valid_out = 0 f = 9638924
-Valid_out = 0 f = 9638924
-Valid_out = 1 f = 9650373
-Valid_out = 1 f = 9659209
-Valid_out = 0 f = 9659209
-Valid_out = 1 f = 9666953
-Valid_out = 1 f = 9687978
-Valid_out = 1 f = 9731659
-Valid_out = 0 f = 9731659
-Valid_out = 1 f = 9733508
-Valid_out = 1 f = 9761397
-Valid_out = 1 f = 9819961
-Valid_out = 1 f = 9859165
-Valid_out = 1 f = 9859606
-Valid_out = 0 f = 9859606
-Valid_out = 1 f = 9880055
-Valid_out = 1 f = 9911031
-Valid_out = 0 f = 9911031
-Valid_out = 1 f = 9915520
-Valid_out = 0 f = 9915520
-Valid_out = 0 f = 9915520
-Valid_out = 1 f = 9972641
-Valid_out = 0 f = 9972641
-Valid_out = 1 f = 10007985
-Valid_out = 0 f = 10007985
-Valid_out = 0 f = 10007985
-Valid_out = 1 f = 10008034
-Valid_out = 0 f = 10008034
-Valid_out = 1 f = 10068550
-Valid_out = 0 f = 10068550
-Valid_out = 0 f = 10068550
-Valid_out = 1 f = 10116511
-Valid_out = 1 f = 10147487
-Valid_out = 1 f = 10181712
-Valid_out = 1 f = 10230112
-Valid_out = 0 f = 10230112
-Valid_out = 1 f = 10230553
-Valid_out = 0 f = 10230553
-Valid_out = 0 f = 10230553
-Valid_out = 0 f = 10230553
-Valid_out = 0 f = 10230553
-Valid_out = 0 f = 10230553
-Valid_out = 1 f = 10265522
-Valid_out = 1 f = 10305522
-Valid_out = 1 f = 10311298
-Valid_out = 1 f = 10370834
-Valid_out = 1 f = 10393035
-Valid_out = 1 f = 10439260
-Valid_out = 0 f = 10439260
-Valid_out = 1 f = 10442396
-Valid_out = 0 f = 10442396
-Valid_out = 0 f = 10442396
-Valid_out = 1 f = 10446365
-Valid_out = 0 f = 10446365
-Valid_out = 1 f = 10510881
-Valid_out = 0 f = 10510881
-Valid_out = 0 f = 10510881
-Valid_out = 1 f = 10565637
-Valid_out = 0 f = 10565637
-Valid_out = 0 f = 10565637
-Valid_out = 0 f = 10565637
-Valid_out = 1 f = 10590601
-Valid_out = 1 f = 10593737
-Valid_out = 0 f = 10593737
-Valid_out = 1 f = 10593762
-Valid_out = 1 f = 10593931
-Valid_out = 1 f = 10652012
-Valid_out = 0 f = 10652012
-Valid_out = 0 f = 10652012
-Valid_out = 0 f = 10652012
-Valid_out = 1 f = 10679901
-Valid_out = 1 f = 10702102
-Valid_out = 1 f = 10731343
-Valid_out = 1 f = 10744339
-Valid_out = 0 f = 10744339
-Valid_out = 1 f = 10745939
-Valid_out = 0 f = 10745939
-Valid_out = 1 f = 10808439
-Valid_out = 1 f = 10811920
-Valid_out = 0 f = 10811920
-Valid_out = 1 f = 10812704
-Valid_out = 1 f = 10833729
-Valid_out = 1 f = 10897233
-Valid_out = 0 f = 10897233
-Valid_out = 1 f = 10921258
-Valid_out = 1 f = 10926299
-Valid_out = 0 f = 10926299
-Valid_out = 0 f = 10926299
-Valid_out = 0 f = 10926299
-Valid_out = 1 f = 10952868
-Valid_out = 1 f = 10958344
-Valid_out = 1 f = 10966265
-Valid_out = 1 f = 10987290
-Valid_out = 0 f = 10987290
-Valid_out = 0 f = 10987290
-Valid_out = 0 f = 10987290
-Valid_out = 0 f = 10987290
-Valid_out = 1 f = 11042515
-Valid_out = 0 f = 11042515
-Valid_out = 1 f = 11047004
-Valid_out = 0 f = 11047004
-Valid_out = 0 f = 11047004
-Valid_out = 0 f = 11047004
-Valid_out = 0 f = 11047004
-Valid_out = 0 f = 11047004
-Valid_out = 0 f = 11047004
-Valid_out = 0 f = 11047004
-Valid_out = 1 f = 11109504
-Valid_out = 0 f = 11109504
-Valid_out = 0 f = 11109504
-Valid_out = 0 f = 11109504
-Valid_out = 1 f = 11134153
-Valid_out = 0 f = 11134153
-Valid_out = 0 f = 11134153
-Valid_out = 0 f = 11134153
-Valid_out = 1 f = 11149282
-Valid_out = 1 f = 11168326
-Valid_out = 1 f = 11168351
-Valid_out = 0 f = 11168351
-Valid_out = 1 f = 11200392
-Valid_out = 0 f = 11200392
-Valid_out = 1 f = 11210392
-Valid_out = 0 f = 11210392
-Valid_out = 1 f = 11239292
-Valid_out = 0 f = 11239292
-Valid_out = 1 f = 11249493
-Valid_out = 0 f = 11249493
-Valid_out = 1 f = 11249593
-Valid_out = 1 f = 11268914
+0 0
+0 0
+0 0
+0 0
+1 53824
+1 54553
+1 56762
+0 56762
+0 56762
+1 120266
+0 120266
+1 165210
+0 165210
+1 169834
+0 169834
+0 169834
+0 169834
+0 169834
+1 188878
+1 194654
+1 244830
+1 257826
+1 263910
+1 286111
+0 286111
+1 342755
+1 400355
+1 420519
+0 420519
+0 420519
+0 420519
+0 420519
+0 420519
+1 420715
+0 420715
+1 437099
+1 474348
+0 474348
+0 474348
+0 474348
+0 474348
+0 474348
+1 486229
+0 486229
+0 486229
+0 486229
+0 486229
+0 486229
+0 486229
+1 497254
+0 497254
+1 500170
+0 500170
+1 531499
+1 581675
+0 581675
+0 581675
+0 581675
+1 622884
+1 654568
+1 713617
+0 713617
+1 715642
+1 717242
+0 717242
+1 735738
+0 735738
+1 770334
+0 770334
+1 773698
+0 773698
+0 773698
+1 776614
+0 776614
+0 776614
+1 776623
+0 776623
+1 807599
+0 807599
+0 807599
+1 818835
+0 818835
+1 857251
+1 861220
+0 861220
+0 861220
+0 861220
+0 861220
+0 861220
+1 877604
+1 919629
+1 940078
+1 977327
+0 977327
+1 977856
+0 977856
+1 994497
+1 1005313
+0 1005313
+0 1005313
+0 1005313
+0 1005313
+1 1009282
+0 1009282
+1 1035526
+1 1063082
+1 1118778
+0 1118778
+0 1118778
+1 1127994
+1 1161850
+1 1162019
+0 1162019
+1 1177895
+0 1177895
+0 1177895
+1 1180199
+1 1209099
+0 1209099
+0 1209099
+0 1209099
+0 1209099
+1 1213860
+1 1236360
+0 1236360
+0 1236360
+0 1236360
+0 1236360
+1 1276360
+0 1276360
+1 1281121
+1 1282565
+0 1282565
+1 1335006
+1 1344610
+0 1344610
+1 1353635
+0 1353635
+0 1353635
+0 1353635
+1 1397735
+0 1397735
+1 1456784
+1 1479284
+1 1483128
+1 1509049
+1 1537610
+1 1599611
+0 1599611
+0 1599611
+0 1599611
+0 1599611
+0 1599611
+1 1601915
+1 1616799
+0 1616799
+0 1616799
+0 1616799
+0 1616799
+0 1616799
+1 1635295
+1 1651679
+1 1656579
+0 1656579
+1 1664148
+0 1664148
+0 1664148
+0 1664148
+0 1664148
+0 1664148
+1 1706173
+1 1728077
+1 1762673
+0 1762673
+1 1805522
+1 1818978
+0 1818978
+0 1818978
+1 1830859
+0 1830859
+0 1830859
+1 1836043
+0 1836043
+0 1836043
+0 1836043
+1 1871387
+1 1883051
+0 1883051
+0 1883051
+1 1908015
+0 1908015
+1 1917040
+1 1917089
+0 1917089
+0 1917089
+0 1917089
+1 1957490
+1 2002011
+0 2002011
+0 2002011
+0 2002011
+1 2048667
+1 2106748
+1 2147957
+1 2181446
+1 2183847
+0 2183847
+0 2183847
+0 2183847
+0 2183847
+0 2183847
+0 2183847
+0 2183847
+1 2193648
+1 2230512
+1 2295028
+0 2295028
+1 2319992
+1 2320217
+0 2320217
+0 2320217
+0 2320217
+0 2320217
+1 2363481
+1 2423017
+1 2465866
+0 2465866
+1 2466227
+1 2521923
+0 2521923
+0 2521923
+0 2521923
+0 2521923
+1 2538307
+1 2568583
+0 2568583
+1 2602072
+1 2644508
+1 2702589
+0 2702589
+0 2702589
+0 2702589
+1 2765089
+0 2765089
+1 2785825
+0 2785825
+0 2785825
+0 2785825
+1 2801450
+1 2821614
+0 2821614
+1 2850855
+0 2850855
+1 2852619
+0 2852619
+1 2853244
+0 2853244
+0 2853244
+0 2853244
+1 2858144
+1 2859168
+0 2859168
+1 2859457
+0 2859457
+0 2859457
+0 2859457
+1 2923973
+0 2923973
+1 2973702
+0 2973702
+0 2973702
+0 2973702
+1 3002602
+0 3002602
+1 3005851
+1 3034412
+1 3034988
+1 3088349
+0 3088349
+0 3088349
+1 3104225
+1 3141861
+1 3187657
+1 3223378
+0 3223378
+0 3223378
+1 3258722
+0 3258722
+0 3258722
+1 3263906
+0 3263906
+1 3264075
+0 3264075
+0 3264075
+1 3314251
+1 3353455
+1 3381011
+1 3429411
+1 3442407
+1 3444907
+0 3444907
+1 3445532
+1 3445557
+1 3500782
+0 3500782
+1 3503282
+1 3504726
+1 3532950
+1 3535654
+0 3535654
+0 3535654
+1 3548879
+1 3575448
+1 3591324
+0 3591324
+1 3628960
+1 3649696
+1 3652612
+0 3652612
+0 3652612
+1 3660008
+0 3660008
+1 3677964
+0 3677964
+1 3680773
+1 3723622
+0 3723622
+0 3723622
+0 3723622
+0 3723622
+0 3723622
+1 3725558
+0 3725558
+0 3725558
+1 3742982
+0 3742982
+1 3747078
+1 3754474
+0 3754474
+1 3771115
+0 3771115
+0 3771115
+1 3792724
+1 3806648
+1 3870152
+1 3895433
+1 3897282
+1 3897382
+1 3899498
+0 3899498
+1 3953787
+1 3973668
+1 4038184
+0 4038184
+0 4038184
+0 4038184
+1 4075820
+1 4133420
+0 4133420
+0 4133420
+0 4133420
+1 4143621
+0 4143621
+1 4182037
+1 4191062
+0 4191062
+1 4210662
+0 4210662
+0 4210662
+0 4210662
+1 4255606
+1 4281850
+1 4286750
+0 4286750
+1 4348751
+1 4374032
+0 4374032
+0 4374032
+1 4387488
+0 4387488
+0 4387488
+1 4388272
+0 4388272
+1 4426688
+1 4484769
+1 4504650
+0 4504650
+0 4504650
+1 4542675
+0 4542675
+1 4573651
+1 4573795
+1 4578979
+0 4578979
+1 4591975
+1 4612711
+1 4619272
+0 4619272
+1 4622753
+0 4622753
+1 4622757
+0 4622757
+0 4622757
+0 4622757
+0 4622757
+1 4677982
+1 4677998
+0 4677998
+0 4677998
+0 4677998
+1 4679087
+1 4689491
+1 4694391
+1 4701960
+1 4750360
+0 4750360
+0 4750360
+0 4750360
+0 4750360
+0 4750360
+0 4750360
+0 4750360
+0 4750360
+1 4764284
+1 4771680
+1 4817905
+1 4818481
+0 4818481
+0 4818481
+0 4818481
+1 4823522
+0 4823522
+0 4823522
+0 4823522
+0 4823522
+1 4849766
+1 4895562
+1 4929051
+0 4929051
+1 4930347
+1 4960276
+1 4977437
+1 4980686
+1 4981911
+0 4981911
+1 4982107
+0 4982107
+1 4998236
+0 4998236
+1 5045325
+1 5083741
+0 5083741
+0 5083741
+0 5083741
+1 5108705
+1 5138289
+1 5144218
+0 5144218
+1 5168554
+0 5168554
+1 5171363
+1 5175852
+0 5175852
+1 5193013
+0 5193013
+1 5208889
+1 5255545
+1 5301341
+1 5329230
+1 5339031
+1 5346256
+0 5346256
+0 5346256
+1 5347856
+1 5392377
+0 5392377
+0 5392377
+1 5434813
+1 5436749
+1 5456913
+0 5456913
+1 5506642
+1 5511131
+0 5511131
+0 5511131
+1 5513340
+1 5548309
+0 5548309
+1 5557334
+0 5557334
+0 5557334
+0 5557334
+1 5567738
+0 5567738
+1 5575838
+1 5578754
+1 5582475
+1 5602356
+1 5643160
+0 5643160
+1 5659801
+1 5680537
+1 5688637
+0 5688637
+0 5688637
+0 5688637
+1 5688701
+0 5688701
+1 5691005
+0 5691005
+0 5691005
+1 5712321
+1 5717946
+1 5759562
+0 5759562
+0 5759562
+0 5759562
+1 5791603
+0 5791603
+0 5791603
+0 5791603
+0 5791603
+0 5791603
+0 5791603
+0 5791603
+1 5824727
+0 5824727
+0 5824727
+1 5835336
+0 5835336
+0 5835336
+0 5835336
+1 5873752
+1 5912956
+1 5925277
+1 5954177
+0 5954177
+1 5963978
+1 5981667
+0 5981667
+1 5985148
+0 5985148
+1 6013372
+1 6055397
+1 6086373
+0 6086373
+1 6098254
+1 6098450
+0 6098450
+1 6106914
+0 6106914
+1 6129414
+1 6129415
+0 6129415
+1 6169415
+0 6169415
+0 6169415
+1 6220491
+1 6281500
+0 6281500
+0 6281500
+1 6282400
+0 6282400
+0 6282400
+1 6282401
+1 6331242
+0 6331242
+0 6331242
+1 6343123
+0 6343123
+1 6345427
+1 6348791
+0 6348791
+1 6403547
+1 6445163
+0 6445163
+1 6491388
+0 6491388
+0 6491388
+0 6491388
+0 6491388
+1 6527109
+0 6527109
+1 6573334
+0 6573334
+1 6582743
+1 6591024
+0 6591024
+1 6624880
+0 6624880
+0 6624880
+1 6668144
+0 6668144
+1 6719220
+0 6719220
+0 6719220
+1 6742324
+0 6742324
+1 6752125
+0 6752125
+1 6756614
+0 6756614
+0 6756614
+1 6761798
+0 6761798
+0 6761798
+1 6762474
+0 6762474
+0 6762474
+1 6764683
+0 6764683
+1 6766892
+1 6797517
+0 6797517
+1 6798417
+1 6835281
+0 6835281
+0 6835281
+1 6840465
+0 6840465
+0 6840465
+0 6840465
+1 6851914
+1 6878810
+1 6883571
+1 6946071
+0 6946071
+1 6946395
+0 6946395
+1 6947764
+0 6947764
+0 6947764
+1 6991028
+0 6991028
+1 7019928
+0 7019928
+0 7019928
+1 7059928
+0 7059928
+0 7059928
+1 7063897
+0 7063897
+0 7063897
+0 7063897
+1 7098493
+1 7115654
+1 7152903
+1 7167303
+0 7167303
+0 7167303
+0 7167303
+1 7168327
+0 7168327
+1 7169623
+1 7176679
+1 7176760
+1 7176904
+1 7179820
+1 7182421
+1 7183942
+0 7183942
+1 7190026
+0 7190026
+1 7190602
+0 7190602
+1 7233451
+0 7233451
+1 7256555
+1 7303211
+1 7304111
+0 7304111
+0 7304111
+0 7304111
+0 7304111
+0 7304111
+0 7304111
+1 7352511
+1 7354815
+0 7354815
+1 7359999
+1 7360099
+1 7360999
+0 7360999
+0 7360999
+0 7360999
+1 7361168
+1 7409568
+1 7411777
+0 7411777
+0 7411777
+0 7411777
+0 7411777
+0 7411777
+0 7411777
+1 7451378
+1 7485603
+1 7486044
+0 7486044
+0 7486044
+1 7549548
+1 7562317
+1 7603933
+0 7603933
+1 7657294
+0 7657294
+1 7661519
+1 7707744
+1 7762969
+1 7763165
+1 7819334
+0 7819334
+1 7846890
+1 7862515
+0 7862515
+0 7862515
+0 7862515
+0 7862515
+1 7867699
+1 7912643
+0 7912643
+1 7937924
+0 7937924
+1 7938500
+0 7938500
+0 7938500
+0 7938500
+0 7938500
+1 7958100
+0 7958100
+0 7958100
+1 7959700
+0 7959700
+1 8008541
+1 8037782
+1 8049018
+1 8084362
+1 8099738
+1 8116122
+1 8116126
+0 8116126
+1 8118062
+0 8118062
+1 8125983
+0 8125983
+0 8125983
+1 8162847
+1 8182728
+1 8184024
+1 8240668
+0 8240668
+0 8240668
+1 8250272
+0 8250272
+0 8250272
+0 8250272
+1 8266913
+0 8266913
+0 8266913
+0 8266913
+0 8266913
+0 8266913
+1 8274834
+1 8323234
+0 8323234
+1 8329163
+0 8329163
+1 8329388
+1 8335629
+0 8335629
+0 8335629
+1 8368029
+1 8368513
+0 8368513
+0 8368513
+1 8403857
+0 8403857
+1 8405706
+1 8425587
+0 8425587
+0 8425587
+1 8475316
+0 8475316
+1 8490200
+1 8494296
+0 8494296
+1 8513065
+1 8569234
+0 8569234
+1 8606483
+1 8622359
+0 8622359
+0 8622359
+1 8622408
+0 8622408
+1 8643433
+0 8643433
+0 8643433
+0 8643433
+0 8643433
+1 8652842
+1 8666298
+1 8672227
+1 8691271
+0 8691271
+1 8730080
+1 8770481
+1 8770706
+1 8770787
+1 8770983
+1 8771152
+0 8771152
+1 8771377
+1 8807477
+0 8807477
+1 8807621
+0 8807621
+1 8809737
+0 8809737
+1 8844333
+1 8844349
+0 8844349
+0 8844349
+0 8844349
+1 8859974
+1 8886543
+0 8886543
+1 8927752
+1 8936777
+0 8936777
+0 8936777
+0 8936777
+1 8965338
+1 8965699
+1 8976935
+0 8976935
+1 8982864
+0 8982864
+1 8984308
+1 9045812
+0 9045812
+0 9045812
+1 9069528
+1 9085657
+0 9085657
+1 9088906
+1 9127322
+1 9189323
+0 9189323
+0 9189323
+1 9236412
+0 9236412
+1 9237436
+0 9237436
+1 9269477
+1 9324233
+0 9324233
+1 9356633
+1 9356957
+1 9412653
+1 9455502
+0 9455502
+1 9506578
+1 9506579
+0 9506579
+0 9506579
+0 9506579
+1 9522708
+1 9582244
+1 9619880
+0 9619880
+1 9638924
+0 9638924
+0 9638924
+0 9638924
+1 9650373
+1 9659209
+0 9659209
+1 9666953
+1 9687978
+1 9731659
+0 9731659
+1 9733508
+1 9761397
+1 9819961
+1 9859165
+1 9859606
+0 9859606
+1 9880055
+1 9911031
+0 9911031
+1 9915520
+0 9915520
+0 9915520
+1 9972641
+0 9972641
+1 10007985
+0 10007985
+0 10007985
+1 10008034
+0 10008034
+1 10068550
+0 10068550
+0 10068550
+1 10116511
+1 10147487
+1 10181712
+1 10230112
+0 10230112
+1 10230553
+0 10230553
+0 10230553
+0 10230553
+0 10230553
+0 10230553
+1 10265522
+1 10305522
+1 10311298
+1 10370834
+1 10393035
+1 10439260
+0 10439260
+1 10442396
+0 10442396
+0 10442396
+1 10446365
+0 10446365
+1 10510881
+0 10510881
+0 10510881
+1 10565637
+0 10565637
+0 10565637
+0 10565637
+1 10590601
+1 10593737
+0 10593737
+1 10593762
+1 10593931
+1 10652012
+0 10652012
+0 10652012
+0 10652012
+1 10679901
+1 10702102
+1 10731343
+1 10744339
+0 10744339
+1 10745939
+0 10745939
+1 10808439
+1 10811920
+0 10811920
+1 10812704
+1 10833729
+1 10897233
+0 10897233
+1 10921258
+1 10926299
+0 10926299
+0 10926299
+0 10926299
+1 10952868
+1 10958344
+1 10966265
+1 10987290
+0 10987290
+0 10987290
+0 10987290
+0 10987290
+1 11042515
+0 11042515
+1 11047004
+0 11047004
+0 11047004
+0 11047004
+0 11047004
+0 11047004
+0 11047004
+0 11047004
+1 11109504
+0 11109504
+0 11109504
+0 11109504
+1 11134153
+0 11134153
+0 11134153
+0 11134153
+1 11149282
+1 11168326
+1 11168351
+0 11168351
+1 11200392
+0 11200392
+1 11210392
+0 11210392
+1 11239292
+0 11239292
+1 11249493
+0 11249493
+1 11249593
+1 11268914

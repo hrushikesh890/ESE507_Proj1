@@ -8,10 +8,6 @@ module dff (clk, reset, a, enable_a, dff_out);
 		 dff_out <= 0;
 	  else if ((reset == 0) && (enable_a == 1))
 		 dff_out <= a;
-	  /*else if (enable_a == 0)
-		 dff_out <= 0;
-	  else
-		 dff_out <= 0;*/
 	end
 endmodule
 
@@ -45,10 +41,6 @@ module op_dff (d_in, enable_f, clk, reset, f);
 		 f <= 0;
 	  else if ((reset == 0) && (enable_f == 1))
 		 f <= d_in;
-	  /*else if (enable_f == 0)
-		 f <= 0;
-	  else
-		 f <= 0;*/
 	end
 endmodule
 
@@ -71,8 +63,6 @@ module part2(clk, reset, a, valid_in, f, valid_out);
 
 	op_dff i3 (.d_in(w_sum), .enable_f(w_en_f), .clk(clk), .reset(reset), .f(f));
 endmodule
-
-
 
 
 
@@ -107,9 +97,13 @@ module tb_part2();
 	 
 	 initial begin 
 
-	 reset = 0;
+	 reset = 1;
 	 a = 0;
 	 valid_in = 0;
+
+	 @(posedge clk);
+	 #1; // After 1 posedge
+	 reset = 0; a = 10; valid_in = 0;
 
 
 	  for (i = 0; i < 1000; i = i+1) begin

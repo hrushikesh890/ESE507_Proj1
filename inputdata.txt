@@ -1,1000 +1,2000 @@
-Reset = 0 valid_in = 1 a = f1
-Reset = 0 valid_in = 1 a = eb
-Reset = 0 valid_in = 0 a = 36
-Reset = 0 valid_in = 0 a = b7
-Reset = 0 valid_in = 0 a = 5c
-Reset = 0 valid_in = 1 a = a5
-Reset = 0 valid_in = 0 a = 7c
-Reset = 0 valid_in = 0 a = 15
-Reset = 0 valid_in = 0 a = 59
-Reset = 0 valid_in = 0 a = 77
-Reset = 0 valid_in = 0 a = a3
-Reset = 0 valid_in = 0 a = 26
-Reset = 0 valid_in = 0 a = 52
-Reset = 0 valid_in = 0 a = f0
-Reset = 0 valid_in = 0 a = 40
-Reset = 0 valid_in = 1 a = 26
-Reset = 0 valid_in = 0 a = 5b
-Reset = 0 valid_in = 1 a = 1f
-Reset = 0 valid_in = 0 a = c
-Reset = 0 valid_in = 0 a = 1e
-Reset = 0 valid_in = 1 a = 22
-Reset = 0 valid_in = 0 a = a8
-Reset = 0 valid_in = 1 a = 82
-Reset = 0 valid_in = 1 a = 1e
-Reset = 0 valid_in = 0 a = d9
-Reset = 0 valid_in = 1 a = 67
-Reset = 0 valid_in = 1 a = ea
-Reset = 0 valid_in = 1 a = a3
-Reset = 0 valid_in = 1 a = 95
-Reset = 0 valid_in = 0 a = dd
-Reset = 0 valid_in = 1 a = d2
-Reset = 0 valid_in = 1 a = 7
-Reset = 0 valid_in = 0 a = 15
-Reset = 0 valid_in = 1 a = bf
-Reset = 0 valid_in = 1 a = fc
-Reset = 0 valid_in = 0 a = 8a
-Reset = 0 valid_in = 0 a = a0
-Reset = 0 valid_in = 0 a = bc
-Reset = 0 valid_in = 1 a = ef
-Reset = 0 valid_in = 0 a = fe
-Reset = 0 valid_in = 1 a = 71
-Reset = 0 valid_in = 1 a = 45
-Reset = 0 valid_in = 0 a = f3
-Reset = 0 valid_in = 0 a = 98
-Reset = 0 valid_in = 1 a = 7c
-Reset = 0 valid_in = 0 a = 5e
-Reset = 0 valid_in = 0 a = 79
-Reset = 0 valid_in = 0 a = 7b
-Reset = 0 valid_in = 0 a = 8c
-Reset = 0 valid_in = 1 a = b0
-Reset = 0 valid_in = 0 a = 17
-Reset = 0 valid_in = 0 a = a7
-Reset = 0 valid_in = 0 a = 6c
-Reset = 0 valid_in = 1 a = da
-Reset = 0 valid_in = 0 a = 3f
-Reset = 0 valid_in = 0 a = 23
-Reset = 0 valid_in = 1 a = 3e
-Reset = 0 valid_in = 1 a = b
-Reset = 0 valid_in = 0 a = 51
-Reset = 0 valid_in = 1 a = b9
-Reset = 0 valid_in = 0 a = 19
-Reset = 0 valid_in = 0 a = 1b
-Reset = 0 valid_in = 1 a = 7e
-Reset = 0 valid_in = 0 a = 21
-Reset = 0 valid_in = 1 a = d1
-Reset = 0 valid_in = 1 a = 93
-Reset = 0 valid_in = 1 a = b
-Reset = 0 valid_in = 1 a = a1
-Reset = 0 valid_in = 1 a = 9f
-Reset = 0 valid_in = 0 a = d2
-Reset = 0 valid_in = 1 a = 54
-Reset = 0 valid_in = 0 a = 8e
-Reset = 0 valid_in = 1 a = 5e
-Reset = 0 valid_in = 0 a = c3
-Reset = 0 valid_in = 0 a = 3d
-Reset = 0 valid_in = 1 a = 7d
-Reset = 0 valid_in = 1 a = 94
-Reset = 0 valid_in = 0 a = e9
-Reset = 0 valid_in = 0 a = 30
-Reset = 0 valid_in = 1 a = 1d
-Reset = 0 valid_in = 0 a = db
-Reset = 0 valid_in = 0 a = ea
-Reset = 0 valid_in = 1 a = eb
-Reset = 0 valid_in = 0 a = 5d
-Reset = 0 valid_in = 1 a = 7
-Reset = 0 valid_in = 1 a = 68
-Reset = 0 valid_in = 0 a = 25
-Reset = 0 valid_in = 1 a = ed
-Reset = 0 valid_in = 0 a = 90
-Reset = 0 valid_in = 1 a = 33
-Reset = 0 valid_in = 1 a = 2c
-Reset = 0 valid_in = 1 a = 24
-Reset = 0 valid_in = 0 a = 4a
-Reset = 0 valid_in = 0 a = d3
-Reset = 0 valid_in = 0 a = 18
-Reset = 0 valid_in = 0 a = 7b
-Reset = 0 valid_in = 0 a = a1
-Reset = 0 valid_in = 0 a = da
-Reset = 0 valid_in = 0 a = f1
-Reset = 0 valid_in = 0 a = 17
-Reset = 0 valid_in = 1 a = 67
-Reset = 0 valid_in = 0 a = 53
-Reset = 0 valid_in = 0 a = 76
-Reset = 0 valid_in = 0 a = 10
-Reset = 0 valid_in = 1 a = f0
-Reset = 0 valid_in = 1 a = d3
-Reset = 0 valid_in = 0 a = f4
-Reset = 0 valid_in = 0 a = de
-Reset = 0 valid_in = 1 a = 6
-Reset = 0 valid_in = 0 a = b8
-Reset = 0 valid_in = 0 a = a2
-Reset = 0 valid_in = 1 a = 12
-Reset = 0 valid_in = 1 a = 9a
-Reset = 0 valid_in = 1 a = cf
-Reset = 0 valid_in = 0 a = 25
-Reset = 0 valid_in = 0 a = 84
-Reset = 0 valid_in = 1 a = 66
-Reset = 0 valid_in = 0 a = 19
-Reset = 0 valid_in = 1 a = 18
-Reset = 0 valid_in = 0 a = e2
-Reset = 0 valid_in = 1 a = 6c
-Reset = 0 valid_in = 1 a = 25
-Reset = 0 valid_in = 1 a = ad
-Reset = 0 valid_in = 1 a = 9f
-Reset = 0 valid_in = 0 a = b5
-Reset = 0 valid_in = 1 a = d2
-Reset = 0 valid_in = 0 a = 8c
-Reset = 0 valid_in = 0 a = 9a
-Reset = 0 valid_in = 1 a = d1
-Reset = 0 valid_in = 0 a = b1
-Reset = 0 valid_in = 1 a = 50
-Reset = 0 valid_in = 0 a = 83
-Reset = 0 valid_in = 0 a = d
-Reset = 0 valid_in = 1 a = 92
-Reset = 0 valid_in = 0 a = c5
-Reset = 0 valid_in = 1 a = 2d
-Reset = 0 valid_in = 1 a = 29
-Reset = 0 valid_in = 1 a = 92
-Reset = 0 valid_in = 0 a = 56
-Reset = 0 valid_in = 1 a = 8a
-Reset = 0 valid_in = 0 a = 8a
-Reset = 0 valid_in = 0 a = 62
-Reset = 0 valid_in = 0 a = 41
-Reset = 0 valid_in = 0 a = 3c
-Reset = 0 valid_in = 1 a = 66
-Reset = 0 valid_in = 0 a = 9
-Reset = 0 valid_in = 0 a = 23
-Reset = 0 valid_in = 0 a = 6c
-Reset = 0 valid_in = 0 a = 28
-Reset = 0 valid_in = 1 a = 55
-Reset = 0 valid_in = 0 a = 72
-Reset = 0 valid_in = 1 a = 1e
-Reset = 0 valid_in = 1 a = d5
-Reset = 0 valid_in = 0 a = 72
-Reset = 0 valid_in = 1 a = e3
-Reset = 0 valid_in = 1 a = 37
-Reset = 0 valid_in = 0 a = 59
-Reset = 0 valid_in = 0 a = 83
-Reset = 0 valid_in = 1 a = 96
-Reset = 0 valid_in = 0 a = ad
-Reset = 0 valid_in = 0 a = ac
-Reset = 0 valid_in = 1 a = b2
-Reset = 0 valid_in = 0 a = 42
-Reset = 0 valid_in = 0 a = ff
-Reset = 0 valid_in = 0 a = 1c
-Reset = 0 valid_in = 0 a = 57
-Reset = 0 valid_in = 1 a = d7
-Reset = 0 valid_in = 0 a = 2a
-Reset = 0 valid_in = 0 a = 26
-Reset = 0 valid_in = 1 a = d8
-Reset = 0 valid_in = 0 a = 99
-Reset = 0 valid_in = 1 a = 76
-Reset = 0 valid_in = 1 a = aa
-Reset = 0 valid_in = 0 a = 8d
-Reset = 0 valid_in = 0 a = b8
-Reset = 0 valid_in = 1 a = 3d
-Reset = 0 valid_in = 1 a = f0
-Reset = 0 valid_in = 0 a = 34
-Reset = 0 valid_in = 0 a = e
-Reset = 0 valid_in = 0 a = 9c
-Reset = 0 valid_in = 1 a = 88
-Reset = 0 valid_in = 1 a = b9
-Reset = 0 valid_in = 1 a = 69
-Reset = 0 valid_in = 1 a = c
-Reset = 0 valid_in = 0 a = 7f
-Reset = 0 valid_in = 1 a = 99
-Reset = 0 valid_in = 1 a = f4
-Reset = 0 valid_in = 0 a = c
-Reset = 0 valid_in = 1 a = 9
-Reset = 0 valid_in = 1 a = df
-Reset = 0 valid_in = 0 a = d4
-Reset = 0 valid_in = 0 a = 26
-Reset = 0 valid_in = 1 a = b
-Reset = 0 valid_in = 1 a = f7
-Reset = 0 valid_in = 1 a = 8f
-Reset = 0 valid_in = 1 a = 44
-Reset = 0 valid_in = 1 a = 87
-Reset = 0 valid_in = 0 a = 77
-Reset = 0 valid_in = 1 a = e0
-Reset = 0 valid_in = 1 a = 7f
-Reset = 0 valid_in = 0 a = 67
-Reset = 0 valid_in = 0 a = 78
-Reset = 0 valid_in = 0 a = 28
-Reset = 0 valid_in = 1 a = fa
-Reset = 0 valid_in = 1 a = 1e
-Reset = 0 valid_in = 0 a = f2
-Reset = 0 valid_in = 1 a = f5
-Reset = 0 valid_in = 1 a = b6
-Reset = 0 valid_in = 1 a = 74
-Reset = 0 valid_in = 1 a = 1a
-Reset = 0 valid_in = 0 a = 41
-Reset = 0 valid_in = 0 a = 1a
-Reset = 0 valid_in = 1 a = 5b
-Reset = 0 valid_in = 1 a = b8
-Reset = 0 valid_in = 1 a = 14
-Reset = 0 valid_in = 0 a = 9b
-Reset = 0 valid_in = 1 a = 50
-Reset = 0 valid_in = 0 a = d8
-Reset = 0 valid_in = 0 a = 98
-Reset = 0 valid_in = 0 a = a9
-Reset = 0 valid_in = 1 a = ac
-Reset = 0 valid_in = 1 a = a8
-Reset = 0 valid_in = 0 a = b4
-Reset = 0 valid_in = 0 a = a2
-Reset = 0 valid_in = 1 a = c
-Reset = 0 valid_in = 1 a = 2b
-Reset = 0 valid_in = 0 a = 1b
-Reset = 0 valid_in = 1 a = 15
-Reset = 0 valid_in = 1 a = d7
-Reset = 0 valid_in = 0 a = b2
-Reset = 0 valid_in = 1 a = 4
-Reset = 0 valid_in = 0 a = 68
-Reset = 0 valid_in = 0 a = 61
-Reset = 0 valid_in = 1 a = cc
-Reset = 0 valid_in = 1 a = 12
-Reset = 0 valid_in = 0 a = af
-Reset = 0 valid_in = 1 a = 11
-Reset = 0 valid_in = 1 a = 60
-Reset = 0 valid_in = 0 a = b5
-Reset = 0 valid_in = 1 a = ee
-Reset = 0 valid_in = 1 a = bf
-Reset = 0 valid_in = 1 a = e
-Reset = 0 valid_in = 1 a = 5f
-Reset = 0 valid_in = 1 a = 52
-Reset = 0 valid_in = 0 a = f0
-Reset = 0 valid_in = 1 a = 23
-Reset = 0 valid_in = 1 a = 52
-Reset = 0 valid_in = 1 a = 49
-Reset = 0 valid_in = 0 a = cb
-Reset = 0 valid_in = 1 a = ac
-Reset = 0 valid_in = 1 a = 8b
-Reset = 0 valid_in = 0 a = 9c
-Reset = 0 valid_in = 0 a = b2
-Reset = 0 valid_in = 1 a = 62
-Reset = 0 valid_in = 0 a = fe
-Reset = 0 valid_in = 0 a = 29
-Reset = 0 valid_in = 1 a = 69
-Reset = 0 valid_in = 1 a = 99
-Reset = 0 valid_in = 1 a = 5b
-Reset = 0 valid_in = 1 a = 0
-Reset = 0 valid_in = 1 a = ef
-Reset = 0 valid_in = 1 a = 40
-Reset = 0 valid_in = 0 a = ae
-Reset = 0 valid_in = 1 a = f4
-Reset = 0 valid_in = 0 a = a0
-Reset = 0 valid_in = 1 a = 56
-Reset = 0 valid_in = 0 a = fb
-Reset = 0 valid_in = 1 a = c8
-Reset = 0 valid_in = 0 a = ee
-Reset = 0 valid_in = 1 a = 15
-Reset = 0 valid_in = 0 a = 7a
-Reset = 0 valid_in = 1 a = ab
-Reset = 0 valid_in = 0 a = 75
-Reset = 0 valid_in = 0 a = ac
-Reset = 0 valid_in = 0 a = 2f
-Reset = 0 valid_in = 0 a = 1c
-Reset = 0 valid_in = 0 a = cf
-Reset = 0 valid_in = 1 a = 60
-Reset = 0 valid_in = 0 a = e6
-Reset = 0 valid_in = 0 a = f6
-Reset = 0 valid_in = 1 a = f5
-Reset = 0 valid_in = 0 a = b2
-Reset = 0 valid_in = 0 a = 3f
-Reset = 0 valid_in = 0 a = 9e
-Reset = 0 valid_in = 1 a = a4
-Reset = 0 valid_in = 0 a = 1b
-Reset = 0 valid_in = 0 a = f1
-Reset = 0 valid_in = 0 a = 1
-Reset = 0 valid_in = 0 a = a
-Reset = 0 valid_in = 1 a = 37
-Reset = 0 valid_in = 1 a = 5a
-Reset = 0 valid_in = 0 a = 57
-Reset = 0 valid_in = 1 a = af
-Reset = 0 valid_in = 0 a = a7
-Reset = 0 valid_in = 0 a = c
-Reset = 0 valid_in = 1 a = 1c
-Reset = 0 valid_in = 0 a = eb
-Reset = 0 valid_in = 0 a = f1
-Reset = 0 valid_in = 1 a = 48
-Reset = 0 valid_in = 0 a = 58
-Reset = 0 valid_in = 1 a = 42
-Reset = 0 valid_in = 1 a = a
-Reset = 0 valid_in = 0 a = 39
-Reset = 0 valid_in = 1 a = 9a
-Reset = 0 valid_in = 1 a = ba
-Reset = 0 valid_in = 0 a = 7c
-Reset = 0 valid_in = 0 a = 24
-Reset = 0 valid_in = 1 a = 3e
-Reset = 0 valid_in = 0 a = 8b
-Reset = 0 valid_in = 1 a = 69
-Reset = 0 valid_in = 0 a = 84
-Reset = 0 valid_in = 1 a = 98
-Reset = 0 valid_in = 0 a = 54
-Reset = 0 valid_in = 1 a = 99
-Reset = 0 valid_in = 0 a = 19
-Reset = 0 valid_in = 0 a = 89
-Reset = 0 valid_in = 0 a = 65
-Reset = 0 valid_in = 1 a = 8f
-Reset = 0 valid_in = 1 a = a0
-Reset = 0 valid_in = 0 a = e2
-Reset = 0 valid_in = 1 a = fa
-Reset = 0 valid_in = 0 a = 6e
-Reset = 0 valid_in = 1 a = 33
-Reset = 0 valid_in = 0 a = f2
-Reset = 0 valid_in = 1 a = 93
-Reset = 0 valid_in = 1 a = 56
-Reset = 0 valid_in = 0 a = e1
-Reset = 0 valid_in = 0 a = 86
-Reset = 0 valid_in = 1 a = 78
-Reset = 0 valid_in = 0 a = d3
-Reset = 0 valid_in = 0 a = 11
-Reset = 0 valid_in = 1 a = ee
-Reset = 0 valid_in = 1 a = f0
-Reset = 0 valid_in = 0 a = 16
-Reset = 0 valid_in = 0 a = a7
-Reset = 0 valid_in = 1 a = ea
-Reset = 0 valid_in = 1 a = 57
-Reset = 0 valid_in = 0 a = c0
-Reset = 0 valid_in = 0 a = 6
-Reset = 0 valid_in = 1 a = 49
-Reset = 0 valid_in = 1 a = d
-Reset = 0 valid_in = 1 a = b0
-Reset = 0 valid_in = 0 a = 8d
-Reset = 0 valid_in = 0 a = 25
-Reset = 0 valid_in = 0 a = 55
-Reset = 0 valid_in = 1 a = 98
-Reset = 0 valid_in = 0 a = 54
-Reset = 0 valid_in = 1 a = de
-Reset = 0 valid_in = 0 a = 3
-Reset = 0 valid_in = 0 a = d5
-Reset = 0 valid_in = 0 a = ec
-Reset = 0 valid_in = 0 a = 4c
-Reset = 0 valid_in = 0 a = 19
-Reset = 0 valid_in = 1 a = ce
-Reset = 0 valid_in = 1 a = be
-Reset = 0 valid_in = 1 a = b8
-Reset = 0 valid_in = 0 a = b6
-Reset = 0 valid_in = 0 a = ba
-Reset = 0 valid_in = 1 a = 9e
-Reset = 0 valid_in = 1 a = 4a
-Reset = 0 valid_in = 0 a = d7
-Reset = 0 valid_in = 0 a = 5a
-Reset = 0 valid_in = 0 a = 68
-Reset = 0 valid_in = 1 a = 71
-Reset = 0 valid_in = 0 a = 2c
-Reset = 0 valid_in = 1 a = 16
-Reset = 0 valid_in = 0 a = 6
-Reset = 0 valid_in = 1 a = 5d
-Reset = 0 valid_in = 1 a = 6e
-Reset = 0 valid_in = 0 a = 3e
-Reset = 0 valid_in = 0 a = 43
-Reset = 0 valid_in = 1 a = f7
-Reset = 0 valid_in = 0 a = 5e
-Reset = 0 valid_in = 0 a = 3d
-Reset = 0 valid_in = 1 a = 91
-Reset = 0 valid_in = 1 a = f0
-Reset = 0 valid_in = 0 a = 69
-Reset = 0 valid_in = 1 a = 95
-Reset = 0 valid_in = 0 a = 83
-Reset = 0 valid_in = 1 a = 3d
-Reset = 0 valid_in = 1 a = 4c
-Reset = 0 valid_in = 1 a = c8
-Reset = 0 valid_in = 1 a = b5
-Reset = 0 valid_in = 1 a = 72
-Reset = 0 valid_in = 1 a = 51
-Reset = 0 valid_in = 0 a = 4f
-Reset = 0 valid_in = 0 a = a7
-Reset = 0 valid_in = 0 a = 8d
-Reset = 0 valid_in = 1 a = f8
-Reset = 0 valid_in = 0 a = 2
-Reset = 0 valid_in = 0 a = 52
-Reset = 0 valid_in = 0 a = f3
-Reset = 0 valid_in = 0 a = 3d
-Reset = 0 valid_in = 0 a = 8d
-Reset = 0 valid_in = 0 a = 8e
-Reset = 0 valid_in = 0 a = 6f
-Reset = 0 valid_in = 0 a = 1d
-Reset = 0 valid_in = 0 a = 2d
-Reset = 0 valid_in = 0 a = 5d
-Reset = 0 valid_in = 0 a = f5
-Reset = 0 valid_in = 0 a = 51
-Reset = 0 valid_in = 0 a = 42
-Reset = 0 valid_in = 0 a = 8b
-Reset = 0 valid_in = 1 a = fe
-Reset = 0 valid_in = 1 a = 9b
-Reset = 0 valid_in = 1 a = d
-Reset = 0 valid_in = 0 a = f3
-Reset = 0 valid_in = 0 a = a9
-Reset = 0 valid_in = 1 a = 88
-Reset = 0 valid_in = 0 a = f0
-Reset = 0 valid_in = 0 a = 1
-Reset = 0 valid_in = 1 a = f1
-Reset = 0 valid_in = 0 a = 98
-Reset = 0 valid_in = 1 a = f1
-Reset = 0 valid_in = 1 a = be
-Reset = 0 valid_in = 1 a = a4
-Reset = 0 valid_in = 0 a = 2b
-Reset = 0 valid_in = 0 a = 8
-Reset = 0 valid_in = 0 a = b6
-Reset = 0 valid_in = 1 a = 3a
-Reset = 0 valid_in = 1 a = 7
-Reset = 0 valid_in = 1 a = 3f
-Reset = 0 valid_in = 0 a = 48
-Reset = 0 valid_in = 0 a = 2b
-Reset = 0 valid_in = 0 a = 1f
-Reset = 0 valid_in = 1 a = e7
-Reset = 0 valid_in = 0 a = 7c
-Reset = 0 valid_in = 0 a = 40
-Reset = 0 valid_in = 1 a = f6
-Reset = 0 valid_in = 1 a = 9
-Reset = 0 valid_in = 1 a = 18
-Reset = 0 valid_in = 0 a = c4
-Reset = 0 valid_in = 0 a = 94
-Reset = 0 valid_in = 0 a = fa
-Reset = 0 valid_in = 0 a = d3
-Reset = 0 valid_in = 0 a = 9c
-Reset = 0 valid_in = 1 a = 7c
-Reset = 0 valid_in = 0 a = d5
-Reset = 0 valid_in = 1 a = c3
-Reset = 0 valid_in = 1 a = 94
-Reset = 0 valid_in = 1 a = 1d
-Reset = 0 valid_in = 1 a = 4
-Reset = 0 valid_in = 0 a = 53
-Reset = 0 valid_in = 0 a = ad
-Reset = 0 valid_in = 0 a = 75
-Reset = 0 valid_in = 0 a = ff
-Reset = 0 valid_in = 1 a = 64
-Reset = 0 valid_in = 0 a = d2
-Reset = 0 valid_in = 0 a = 90
-Reset = 0 valid_in = 1 a = 42
-Reset = 0 valid_in = 0 a = 1
-Reset = 0 valid_in = 1 a = 3d
-Reset = 0 valid_in = 1 a = b9
-Reset = 0 valid_in = 1 a = 41
-Reset = 0 valid_in = 1 a = 14
-Reset = 0 valid_in = 1 a = 60
-Reset = 0 valid_in = 0 a = 51
-Reset = 0 valid_in = 0 a = ca
-Reset = 0 valid_in = 1 a = a8
-Reset = 0 valid_in = 1 a = ee
-Reset = 0 valid_in = 1 a = 2d
-Reset = 0 valid_in = 1 a = ab
-Reset = 0 valid_in = 1 a = b1
-Reset = 0 valid_in = 1 a = 89
-Reset = 0 valid_in = 0 a = 4a
-Reset = 0 valid_in = 1 a = a4
-Reset = 0 valid_in = 1 a = aa
-Reset = 0 valid_in = 0 a = c8
-Reset = 0 valid_in = 1 a = f4
-Reset = 0 valid_in = 0 a = e1
-Reset = 0 valid_in = 1 a = de
-Reset = 0 valid_in = 1 a = 39
-Reset = 0 valid_in = 1 a = a5
-Reset = 0 valid_in = 1 a = d4
-Reset = 0 valid_in = 0 a = 7a
-Reset = 0 valid_in = 0 a = 6a
-Reset = 0 valid_in = 0 a = b0
-Reset = 0 valid_in = 1 a = 39
-Reset = 0 valid_in = 1 a = 93
-Reset = 0 valid_in = 1 a = a2
-Reset = 0 valid_in = 0 a = 8f
-Reset = 0 valid_in = 1 a = 28
-Reset = 0 valid_in = 0 a = 27
-Reset = 0 valid_in = 0 a = 9d
-Reset = 0 valid_in = 0 a = f9
-Reset = 0 valid_in = 0 a = 24
-Reset = 0 valid_in = 0 a = bf
-Reset = 0 valid_in = 0 a = 7
-Reset = 0 valid_in = 1 a = 61
-Reset = 0 valid_in = 0 a = b1
-Reset = 0 valid_in = 0 a = 9e
-Reset = 0 valid_in = 0 a = 84
-Reset = 0 valid_in = 1 a = 32
-Reset = 0 valid_in = 1 a = af
-Reset = 0 valid_in = 1 a = 80
-Reset = 0 valid_in = 1 a = a3
-Reset = 0 valid_in = 1 a = 97
-Reset = 0 valid_in = 0 a = 49
-Reset = 0 valid_in = 0 a = bc
-Reset = 0 valid_in = 1 a = da
-Reset = 0 valid_in = 1 a = 65
-Reset = 0 valid_in = 0 a = 8d
-Reset = 0 valid_in = 1 a = 5d
-Reset = 0 valid_in = 0 a = 89
-Reset = 0 valid_in = 0 a = 70
-Reset = 0 valid_in = 0 a = 9a
-Reset = 0 valid_in = 0 a = 56
-Reset = 0 valid_in = 0 a = 5c
-Reset = 0 valid_in = 1 a = dc
-Reset = 0 valid_in = 0 a = 4e
-Reset = 0 valid_in = 1 a = 5c
-Reset = 0 valid_in = 1 a = 6c
-Reset = 0 valid_in = 1 a = bc
-Reset = 0 valid_in = 0 a = b2
-Reset = 0 valid_in = 0 a = 9b
-Reset = 0 valid_in = 0 a = 2e
-Reset = 0 valid_in = 1 a = 8b
-Reset = 0 valid_in = 0 a = 25
-Reset = 0 valid_in = 0 a = 50
-Reset = 0 valid_in = 1 a = a7
-Reset = 0 valid_in = 1 a = e8
-Reset = 0 valid_in = 1 a = cf
-Reset = 0 valid_in = 0 a = 60
-Reset = 0 valid_in = 0 a = c7
-Reset = 0 valid_in = 1 a = 37
-Reset = 0 valid_in = 0 a = 98
-Reset = 0 valid_in = 0 a = 6
-Reset = 0 valid_in = 1 a = 87
-Reset = 0 valid_in = 1 a = b9
-Reset = 0 valid_in = 1 a = 3b
-Reset = 0 valid_in = 1 a = c6
-Reset = 0 valid_in = 1 a = 55
-Reset = 0 valid_in = 0 a = 25
-Reset = 0 valid_in = 1 a = 3a
-Reset = 0 valid_in = 1 a = 28
-Reset = 0 valid_in = 1 a = 36
-Reset = 0 valid_in = 0 a = 22
-Reset = 0 valid_in = 0 a = 50
-Reset = 0 valid_in = 1 a = 32
-Reset = 0 valid_in = 1 a = be
-Reset = 0 valid_in = 1 a = 2d
-Reset = 0 valid_in = 1 a = fd
-Reset = 0 valid_in = 1 a = 5b
-Reset = 0 valid_in = 1 a = f6
-Reset = 0 valid_in = 0 a = be
-Reset = 0 valid_in = 0 a = 6a
-Reset = 0 valid_in = 1 a = 9b
-Reset = 0 valid_in = 0 a = d6
-Reset = 0 valid_in = 0 a = 3a
-Reset = 0 valid_in = 0 a = 36
-Reset = 0 valid_in = 0 a = f1
-Reset = 0 valid_in = 1 a = 73
-Reset = 0 valid_in = 1 a = 72
-Reset = 0 valid_in = 0 a = 96
-Reset = 0 valid_in = 0 a = db
-Reset = 0 valid_in = 0 a = e
-Reset = 0 valid_in = 1 a = ab
-Reset = 0 valid_in = 1 a = 3b
-Reset = 0 valid_in = 0 a = 90
-Reset = 0 valid_in = 1 a = 1c
-Reset = 0 valid_in = 0 a = 64
-Reset = 0 valid_in = 1 a = d3
-Reset = 0 valid_in = 1 a = 45
-Reset = 0 valid_in = 1 a = c0
-Reset = 0 valid_in = 0 a = b9
-Reset = 0 valid_in = 0 a = e2
-Reset = 0 valid_in = 1 a = 62
-Reset = 0 valid_in = 1 a = be
-Reset = 0 valid_in = 0 a = 19
-Reset = 0 valid_in = 0 a = 79
-Reset = 0 valid_in = 1 a = a8
-Reset = 0 valid_in = 0 a = fc
-Reset = 0 valid_in = 1 a = 93
-Reset = 0 valid_in = 1 a = 5b
-Reset = 0 valid_in = 1 a = 69
-Reset = 0 valid_in = 1 a = 72
-Reset = 0 valid_in = 0 a = fd
-Reset = 0 valid_in = 0 a = cd
-Reset = 0 valid_in = 1 a = ef
-Reset = 0 valid_in = 1 a = c2
-Reset = 0 valid_in = 0 a = 83
-Reset = 0 valid_in = 1 a = 53
-Reset = 0 valid_in = 1 a = f9
-Reset = 0 valid_in = 0 a = ba
-Reset = 0 valid_in = 0 a = 65
-Reset = 0 valid_in = 0 a = 6
-Reset = 0 valid_in = 0 a = bb
-Reset = 0 valid_in = 0 a = 62
-Reset = 0 valid_in = 1 a = 3a
-Reset = 0 valid_in = 1 a = 72
-Reset = 0 valid_in = 0 a = 34
-Reset = 0 valid_in = 1 a = 71
-Reset = 0 valid_in = 0 a = 2a
-Reset = 0 valid_in = 0 a = 73
-Reset = 0 valid_in = 1 a = cb
-Reset = 0 valid_in = 0 a = c3
-Reset = 0 valid_in = 0 a = d9
-Reset = 0 valid_in = 1 a = 33
-Reset = 0 valid_in = 0 a = 28
-Reset = 0 valid_in = 1 a = e5
-Reset = 0 valid_in = 0 a = 22
-Reset = 0 valid_in = 1 a = 9b
-Reset = 0 valid_in = 1 a = ee
-Reset = 0 valid_in = 0 a = 2c
-Reset = 0 valid_in = 0 a = ba
-Reset = 0 valid_in = 0 a = cc
-Reset = 0 valid_in = 1 a = 82
-Reset = 0 valid_in = 1 a = 1f
-Reset = 0 valid_in = 1 a = 7b
-Reset = 0 valid_in = 0 a = c7
-Reset = 0 valid_in = 0 a = c8
-Reset = 0 valid_in = 0 a = 94
-Reset = 0 valid_in = 1 a = a0
-Reset = 0 valid_in = 0 a = 75
-Reset = 0 valid_in = 0 a = b5
-Reset = 0 valid_in = 1 a = 56
-Reset = 0 valid_in = 1 a = 46
-Reset = 0 valid_in = 1 a = b5
-Reset = 0 valid_in = 1 a = ef
-Reset = 0 valid_in = 1 a = 5d
-Reset = 0 valid_in = 1 a = 7f
-Reset = 0 valid_in = 1 a = 98
-Reset = 0 valid_in = 1 a = 66
-Reset = 0 valid_in = 1 a = ae
-Reset = 0 valid_in = 1 a = 4a
-Reset = 0 valid_in = 1 a = 27
-Reset = 0 valid_in = 1 a = ff
-Reset = 0 valid_in = 0 a = b5
-Reset = 0 valid_in = 0 a = 83
-Reset = 0 valid_in = 0 a = 68
-Reset = 0 valid_in = 0 a = 84
-Reset = 0 valid_in = 1 a = 10
-Reset = 0 valid_in = 1 a = b0
-Reset = 0 valid_in = 1 a = 0
-Reset = 0 valid_in = 1 a = a6
-Reset = 0 valid_in = 1 a = 48
-Reset = 0 valid_in = 0 a = 87
-Reset = 0 valid_in = 1 a = 26
-Reset = 0 valid_in = 1 a = 98
-Reset = 0 valid_in = 0 a = cf
-Reset = 0 valid_in = 0 a = 4a
-Reset = 0 valid_in = 0 a = f5
-Reset = 0 valid_in = 0 a = b2
-Reset = 0 valid_in = 1 a = ea
-Reset = 0 valid_in = 0 a = d4
-Reset = 0 valid_in = 1 a = 6d
-Reset = 0 valid_in = 1 a = 11
-Reset = 0 valid_in = 1 a = 24
-Reset = 0 valid_in = 0 a = 42
-Reset = 0 valid_in = 0 a = 60
-Reset = 0 valid_in = 0 a = 81
-Reset = 0 valid_in = 0 a = d
-Reset = 0 valid_in = 0 a = 89
-Reset = 0 valid_in = 1 a = f6
-Reset = 0 valid_in = 1 a = 9
-Reset = 0 valid_in = 1 a = 3
-Reset = 0 valid_in = 1 a = bb
-Reset = 0 valid_in = 1 a = 9d
-Reset = 0 valid_in = 1 a = a3
-Reset = 0 valid_in = 0 a = a2
-Reset = 0 valid_in = 0 a = da
-Reset = 0 valid_in = 1 a = d1
-Reset = 0 valid_in = 1 a = 8d
-Reset = 0 valid_in = 0 a = ac
-Reset = 0 valid_in = 0 a = 19
-Reset = 0 valid_in = 0 a = b8
-Reset = 0 valid_in = 0 a = b4
-Reset = 0 valid_in = 1 a = a3
-Reset = 0 valid_in = 1 a = fa
-Reset = 0 valid_in = 1 a = 5e
-Reset = 0 valid_in = 0 a = 5e
-Reset = 0 valid_in = 1 a = 56
-Reset = 0 valid_in = 0 a = 5b
-Reset = 0 valid_in = 0 a = 87
-Reset = 0 valid_in = 1 a = 7b
-Reset = 0 valid_in = 1 a = 76
-Reset = 0 valid_in = 1 a = 39
-Reset = 0 valid_in = 1 a = 40
-Reset = 0 valid_in = 0 a = 3c
-Reset = 0 valid_in = 1 a = 97
-Reset = 0 valid_in = 1 a = f8
-Reset = 0 valid_in = 1 a = f0
-Reset = 0 valid_in = 1 a = 15
-Reset = 0 valid_in = 1 a = ea
-Reset = 0 valid_in = 1 a = 2c
-Reset = 0 valid_in = 0 a = 12
-Reset = 0 valid_in = 1 a = ab
-Reset = 0 valid_in = 0 a = a3
-Reset = 0 valid_in = 0 a = 5d
-Reset = 0 valid_in = 0 a = 4
-Reset = 0 valid_in = 1 a = 54
-Reset = 0 valid_in = 1 a = 2e
-Reset = 0 valid_in = 0 a = c2
-Reset = 0 valid_in = 1 a = 54
-Reset = 0 valid_in = 1 a = 5b
-Reset = 0 valid_in = 1 a = 54
-Reset = 0 valid_in = 0 a = 3b
-Reset = 0 valid_in = 0 a = 0
-Reset = 0 valid_in = 1 a = d7
-Reset = 0 valid_in = 1 a = 60
-Reset = 0 valid_in = 0 a = 34
-Reset = 0 valid_in = 1 a = 8d
-Reset = 0 valid_in = 1 a = db
-Reset = 0 valid_in = 0 a = e5
-Reset = 0 valid_in = 1 a = 5b
-Reset = 0 valid_in = 1 a = 11
-Reset = 0 valid_in = 1 a = 64
-Reset = 0 valid_in = 1 a = 3d
-Reset = 0 valid_in = 1 a = ad
-Reset = 0 valid_in = 0 a = 26
-Reset = 0 valid_in = 0 a = 7d
-Reset = 0 valid_in = 0 a = 5c
-Reset = 0 valid_in = 0 a = bf
-Reset = 0 valid_in = 0 a = 8
-Reset = 0 valid_in = 0 a = 47
-Reset = 0 valid_in = 1 a = 9a
-Reset = 0 valid_in = 1 a = db
-Reset = 0 valid_in = 0 a = 5a
-Reset = 0 valid_in = 1 a = 58
-Reset = 0 valid_in = 0 a = ef
-Reset = 0 valid_in = 0 a = 29
-Reset = 0 valid_in = 1 a = 63
-Reset = 0 valid_in = 0 a = 3f
-Reset = 0 valid_in = 0 a = b4
-Reset = 0 valid_in = 0 a = 32
-Reset = 0 valid_in = 1 a = f5
-Reset = 0 valid_in = 1 a = 55
-Reset = 0 valid_in = 0 a = 67
-Reset = 0 valid_in = 1 a = ad
-Reset = 0 valid_in = 1 a = aa
-Reset = 0 valid_in = 0 a = d8
-Reset = 0 valid_in = 1 a = 70
-Reset = 0 valid_in = 1 a = 6c
-Reset = 0 valid_in = 0 a = 69
-Reset = 0 valid_in = 0 a = a
-Reset = 0 valid_in = 1 a = 78
-Reset = 0 valid_in = 0 a = 58
-Reset = 0 valid_in = 1 a = c1
-Reset = 0 valid_in = 1 a = 7c
-Reset = 0 valid_in = 0 a = 84
-Reset = 0 valid_in = 1 a = 50
-Reset = 0 valid_in = 1 a = 5d
-Reset = 0 valid_in = 0 a = ca
-Reset = 0 valid_in = 1 a = b9
-Reset = 0 valid_in = 1 a = 34
-Reset = 0 valid_in = 0 a = 6c
-Reset = 0 valid_in = 1 a = a8
-Reset = 0 valid_in = 0 a = bf
-Reset = 0 valid_in = 0 a = a8
-Reset = 0 valid_in = 0 a = d8
-Reset = 0 valid_in = 1 a = 81
-Reset = 0 valid_in = 1 a = e6
-Reset = 0 valid_in = 1 a = 2d
-Reset = 0 valid_in = 1 a = 71
-Reset = 0 valid_in = 1 a = 1c
-Reset = 0 valid_in = 0 a = 58
-Reset = 0 valid_in = 1 a = 6e
-Reset = 0 valid_in = 0 a = 11
-Reset = 0 valid_in = 0 a = 7a
-Reset = 0 valid_in = 0 a = af
-Reset = 0 valid_in = 0 a = 2e
-Reset = 0 valid_in = 0 a = ba
-Reset = 0 valid_in = 1 a = f9
-Reset = 0 valid_in = 1 a = ea
-Reset = 0 valid_in = 0 a = a1
-Reset = 0 valid_in = 0 a = 53
-Reset = 0 valid_in = 1 a = 13
-Reset = 0 valid_in = 0 a = fc
-Reset = 0 valid_in = 1 a = e0
-Reset = 0 valid_in = 1 a = ea
-Reset = 0 valid_in = 0 a = 62
-Reset = 0 valid_in = 0 a = 69
-Reset = 0 valid_in = 1 a = f7
-Reset = 0 valid_in = 1 a = 8
-Reset = 0 valid_in = 1 a = 45
-Reset = 0 valid_in = 1 a = 1f
-Reset = 0 valid_in = 1 a = d3
-Reset = 0 valid_in = 0 a = 49
-Reset = 0 valid_in = 1 a = 52
-Reset = 0 valid_in = 0 a = 6d
-Reset = 0 valid_in = 1 a = f6
-Reset = 0 valid_in = 1 a = 16
-Reset = 0 valid_in = 0 a = fa
-Reset = 0 valid_in = 1 a = 4a
-Reset = 0 valid_in = 0 a = 7f
-Reset = 0 valid_in = 1 a = d8
-Reset = 0 valid_in = 1 a = 76
-Reset = 0 valid_in = 1 a = b1
-Reset = 0 valid_in = 1 a = bc
-Reset = 0 valid_in = 0 a = df
-Reset = 0 valid_in = 0 a = 71
-Reset = 0 valid_in = 0 a = 75
-Reset = 0 valid_in = 1 a = d8
-Reset = 0 valid_in = 0 a = 11
-Reset = 0 valid_in = 0 a = f2
-Reset = 0 valid_in = 0 a = 1e
-Reset = 0 valid_in = 1 a = 3f
-Reset = 0 valid_in = 0 a = f2
-Reset = 0 valid_in = 0 a = 47
-Reset = 0 valid_in = 1 a = 15
-Reset = 0 valid_in = 1 a = 70
-Reset = 0 valid_in = 0 a = a8
-Reset = 0 valid_in = 0 a = 2e
-Reset = 0 valid_in = 1 a = 53
-Reset = 0 valid_in = 0 a = 13
-Reset = 0 valid_in = 0 a = ed
-Reset = 0 valid_in = 0 a = 31
-Reset = 0 valid_in = 1 a = c9
-Reset = 0 valid_in = 0 a = 21
-Reset = 0 valid_in = 0 a = 33
-Reset = 0 valid_in = 0 a = 58
-Reset = 0 valid_in = 0 a = fc
-Reset = 0 valid_in = 0 a = 87
-Reset = 0 valid_in = 0 a = d2
-Reset = 0 valid_in = 1 a = 2a
-Reset = 0 valid_in = 0 a = 95
-Reset = 0 valid_in = 0 a = d4
-Reset = 0 valid_in = 0 a = 80
-Reset = 0 valid_in = 0 a = 98
-Reset = 0 valid_in = 1 a = ed
-Reset = 0 valid_in = 0 a = 6
-Reset = 0 valid_in = 1 a = 30
-Reset = 0 valid_in = 1 a = 3d
-Reset = 0 valid_in = 0 a = 40
-Reset = 0 valid_in = 0 a = d3
-Reset = 0 valid_in = 1 a = 72
-Reset = 0 valid_in = 1 a = c6
-Reset = 0 valid_in = 1 a = c3
-Reset = 0 valid_in = 1 a = 5d
-Reset = 0 valid_in = 0 a = 1b
-Reset = 0 valid_in = 1 a = 7c
-Reset = 0 valid_in = 0 a = 22
-Reset = 0 valid_in = 1 a = ef
-Reset = 0 valid_in = 1 a = 53
-Reset = 0 valid_in = 0 a = 77
-Reset = 0 valid_in = 1 a = 32
-Reset = 0 valid_in = 0 a = 1b
-Reset = 0 valid_in = 0 a = b5
-Reset = 0 valid_in = 1 a = 5b
-Reset = 0 valid_in = 0 a = b6
-Reset = 0 valid_in = 1 a = 69
-Reset = 0 valid_in = 1 a = 5a
-Reset = 0 valid_in = 1 a = 98
-Reset = 0 valid_in = 1 a = 7c
-Reset = 0 valid_in = 0 a = b3
-Reset = 0 valid_in = 1 a = 7d
-Reset = 0 valid_in = 0 a = 49
-Reset = 0 valid_in = 0 a = 80
-Reset = 0 valid_in = 1 a = 43
-Reset = 0 valid_in = 0 a = bf
-Reset = 0 valid_in = 1 a = 13
-Reset = 0 valid_in = 0 a = 37
-Reset = 0 valid_in = 0 a = 54
-Reset = 0 valid_in = 1 a = 86
-Reset = 0 valid_in = 1 a = e2
-Reset = 0 valid_in = 1 a = de
-Reset = 0 valid_in = 0 a = 66
-Reset = 0 valid_in = 0 a = 7b
-Reset = 0 valid_in = 1 a = 55
-Reset = 0 valid_in = 0 a = f3
-Reset = 0 valid_in = 1 a = 8f
-Reset = 0 valid_in = 0 a = 38
-Reset = 0 valid_in = 0 a = 11
-Reset = 0 valid_in = 0 a = 10
-Reset = 0 valid_in = 1 a = 8b
-Reset = 0 valid_in = 0 a = e
-Reset = 0 valid_in = 1 a = c1
-Reset = 0 valid_in = 1 a = cd
-Reset = 0 valid_in = 1 a = 32
-Reset = 0 valid_in = 0 a = c4
-Reset = 0 valid_in = 0 a = 90
-Reset = 0 valid_in = 0 a = 5f
-Reset = 0 valid_in = 0 a = da
-Reset = 0 valid_in = 0 a = f4
-Reset = 0 valid_in = 0 a = d2
-Reset = 0 valid_in = 1 a = 38
-Reset = 0 valid_in = 0 a = 59
-Reset = 0 valid_in = 0 a = 3a
-Reset = 0 valid_in = 0 a = 28
-Reset = 0 valid_in = 1 a = be
-Reset = 0 valid_in = 0 a = 1a
-Reset = 0 valid_in = 1 a = 52
-Reset = 0 valid_in = 1 a = 11
-Reset = 0 valid_in = 1 a = f0
-Reset = 0 valid_in = 0 a = 72
-Reset = 0 valid_in = 1 a = 57
-Reset = 0 valid_in = 1 a = 57
-Reset = 0 valid_in = 1 a = f9
-Reset = 0 valid_in = 0 a = 91
-Reset = 0 valid_in = 1 a = 61
-Reset = 0 valid_in = 0 a = d6
-Reset = 0 valid_in = 1 a = c5
-Reset = 0 valid_in = 1 a = a
-Reset = 0 valid_in = 1 a = 99
-Reset = 0 valid_in = 1 a = 49
-Reset = 0 valid_in = 1 a = e6
-Reset = 0 valid_in = 0 a = 23
-Reset = 0 valid_in = 0 a = 3e
-Reset = 0 valid_in = 0 a = 57
-Reset = 0 valid_in = 0 a = 78
-Reset = 0 valid_in = 1 a = e3
-Reset = 0 valid_in = 0 a = cd
-Reset = 0 valid_in = 0 a = 86
-Reset = 0 valid_in = 0 a = 6b
-Reset = 0 valid_in = 1 a = b4
-Reset = 0 valid_in = 0 a = 7b
-Reset = 0 valid_in = 0 a = 67
-Reset = 0 valid_in = 1 a = b9
-Reset = 0 valid_in = 0 a = 3f
-Reset = 0 valid_in = 1 a = a4
-Reset = 0 valid_in = 1 a = a9
-Reset = 0 valid_in = 0 a = ec
-Reset = 0 valid_in = 1 a = c3
-Reset = 0 valid_in = 1 a = 1
-Reset = 0 valid_in = 1 a = 59
-Reset = 0 valid_in = 0 a = e5
-Reset = 0 valid_in = 0 a = 48
-Reset = 0 valid_in = 1 a = 76
-Reset = 0 valid_in = 0 a = 78
-Reset = 0 valid_in = 1 a = e7
-Reset = 0 valid_in = 0 a = af
-Reset = 0 valid_in = 0 a = b7
-Reset = 0 valid_in = 1 a = a3
-Reset = 0 valid_in = 0 a = 87
-Reset = 0 valid_in = 0 a = c3
-Reset = 0 valid_in = 1 a = 6b
-Reset = 0 valid_in = 0 a = b7
-Reset = 0 valid_in = 0 a = 39
-Reset = 0 valid_in = 0 a = 83
-Reset = 0 valid_in = 0 a = 95
-Reset = 0 valid_in = 0 a = b3
-Reset = 0 valid_in = 0 a = 19
-Reset = 0 valid_in = 1 a = 2c
-Reset = 0 valid_in = 1 a = cb
-Reset = 0 valid_in = 0 a = 71
-Reset = 0 valid_in = 0 a = d2
-Reset = 0 valid_in = 1 a = 14
-Reset = 0 valid_in = 1 a = 36
-Reset = 0 valid_in = 0 a = fa
-Reset = 0 valid_in = 0 a = 9a
-Reset = 0 valid_in = 1 a = ea
-Reset = 0 valid_in = 1 a = 2b
-Reset = 0 valid_in = 0 a = 5d
-Reset = 0 valid_in = 0 a = 1b
-Reset = 0 valid_in = 1 a = 9f
-Reset = 0 valid_in = 0 a = bd
-Reset = 0 valid_in = 0 a = 2b
-Reset = 0 valid_in = 0 a = 4e
-Reset = 0 valid_in = 1 a = 65
-Reset = 0 valid_in = 1 a = fd
-Reset = 0 valid_in = 1 a = cb
-Reset = 0 valid_in = 0 a = f7
-Reset = 0 valid_in = 0 a = 58
-Reset = 0 valid_in = 1 a = 97
-Reset = 0 valid_in = 1 a = ec
-Reset = 0 valid_in = 0 a = 11
-Reset = 0 valid_in = 0 a = 37
-Reset = 0 valid_in = 0 a = 77
-Reset = 0 valid_in = 0 a = a0
-Reset = 0 valid_in = 1 a = 75
-Reset = 0 valid_in = 0 a = 43
-Reset = 0 valid_in = 1 a = 92
-Reset = 0 valid_in = 0 a = 8
-Reset = 0 valid_in = 1 a = c7
-Reset = 0 valid_in = 0 a = fa
-Reset = 0 valid_in = 1 a = 44
-Reset = 0 valid_in = 0 a = 93
-Reset = 0 valid_in = 1 a = a5
-Reset = 0 valid_in = 1 a = 6a
-Reset = 0 valid_in = 0 a = 3e
-Reset = 0 valid_in = 1 a = 6e
-Reset = 0 valid_in = 1 a = 2c
-Reset = 0 valid_in = 1 a = 8b
-Reset = 0 valid_in = 0 a = 3a
-Reset = 0 valid_in = 1 a = 35
-Reset = 0 valid_in = 1 a = 6b
-Reset = 0 valid_in = 1 a = e1
-Reset = 0 valid_in = 1 a = e8
-Reset = 0 valid_in = 1 a = de
-Reset = 0 valid_in = 0 a = 56
-Reset = 0 valid_in = 1 a = 73
-Reset = 0 valid_in = 0 a = 9d
-Reset = 0 valid_in = 1 a = d7
-Reset = 0 valid_in = 1 a = f1
-Reset = 0 valid_in = 0 a = 80
-Reset = 0 valid_in = 0 a = 97
-Reset = 0 valid_in = 1 a = 7f
-Reset = 0 valid_in = 1 a = 94
-Reset = 0 valid_in = 0 a = 66
-Reset = 0 valid_in = 1 a = 37
-Reset = 0 valid_in = 0 a = 7d
-Reset = 0 valid_in = 0 a = 14
-Reset = 0 valid_in = 0 a = a0
-Reset = 0 valid_in = 0 a = 47
-Reset = 0 valid_in = 1 a = ab
-Reset = 0 valid_in = 0 a = 56
-Reset = 0 valid_in = 1 a = 38
-Reset = 0 valid_in = 1 a = 24
-Reset = 0 valid_in = 0 a = 36
-Reset = 0 valid_in = 0 a = 50
+0
+bc
+0
+96
+0
+a8
+1
+e8
+1
+1b
+1
+2f
+0
+9f
+0
+5d
+1
+fc
+0
+75
+1
+d4
+0
+81
+1
+44
+0
+39
+0
+18
+0
+39
+0
+a5
+1
+8a
+1
+4c
+1
+e0
+1
+72
+1
+4e
+1
+95
+0
+ad
+1
+ee
+1
+f0
+1
+8e
+0
+c1
+0
+96
+0
+4
+0
+29
+0
+83
+1
+e
+0
+1b
+1
+80
+1
+c1
+0
+a
+0
+4
+0
+bb
+0
+32
+0
+d5
+1
+6d
+0
+94
+0
+35
+0
+29
+0
+d9
+0
+78
+0
+20
+1
+69
+0
+e0
+1
+36
+0
+dd
+1
+b1
+1
+e0
+0
+93
+0
+17
+0
+35
+1
+cb
+1
+b2
+1
+f3
+0
+3b
+1
+2d
+1
+28
+0
+39
+1
+88
+0
+7c
+1
+ba
+0
+ff
+1
+3a
+0
+d9
+0
+f2
+1
+36
+0
+74
+0
+f0
+1
+3
+0
+2
+1
+b0
+0
+f1
+0
+7d
+1
+6a
+0
+43
+1
+c4
+1
+3f
+0
+69
+0
+a2
+0
+48
+0
+32
+0
+bb
+1
+80
+1
+cd
+1
+8f
+1
+c1
+0
+fe
+1
+17
+0
+dc
+1
+81
+1
+68
+0
+1d
+0
+8
+0
+22
+0
+c9
+1
+3f
+0
+e8
+1
+a2
+1
+a6
+1
+ec
+0
+3e
+0
+74
+1
+60
+1
+b8
+1
+d
+0
+5c
+1
+7e
+0
+1e
+0
+0
+1
+30
+1
+aa
+0
+c4
+0
+6a
+0
+fb
+0
+d5
+1
+45
+1
+96
+0
+50
+0
+44
+0
+33
+0
+41
+1
+c8
+0
+9
+1
+45
+1
+26
+0
+d2
+1
+e5
+1
+62
+0
+fd
+1
+5f
+0
+46
+0
+e6
+0
+5d
+1
+d2
+0
+3e
+1
+f3
+1
+96
+1
+3e
+1
+a1
+1
+a9
+1
+f9
+0
+97
+0
+12
+0
+2d
+0
+58
+0
+e3
+1
+30
+1
+7a
+0
+0
+0
+2e
+0
+52
+0
+be
+0
+dd
+1
+88
+1
+80
+1
+46
+0
+ac
+1
+57
+0
+d8
+0
+cf
+0
+10
+0
+ce
+0
+7b
+1
+cd
+1
+94
+1
+ba
+0
+1d
+1
+cf
+1
+74
+0
+7a
+0
+88
+1
+6d
+0
+9e
+0
+f4
+1
+48
+0
+a6
+0
+75
+0
+98
+1
+bc
+1
+6c
+0
+61
+0
+38
+1
+9e
+0
+79
+1
+5f
+1
+7
+0
+b4
+0
+1c
+0
+39
+1
+c9
+1
+d3
+0
+da
+0
+e4
+0
+39
+1
+d8
+1
+f1
+1
+cb
+1
+b7
+1
+31
+0
+7b
+0
+24
+0
+77
+0
+f7
+0
+2b
+0
+a4
+0
+b1
+1
+63
+1
+c0
+1
+fe
+0
+e8
+1
+9e
+1
+f
+0
+3
+0
+d2
+0
+f7
+0
+c4
+1
+d0
+1
+f4
+1
+cf
+0
+f7
+1
+13
+1
+ec
+0
+34
+0
+be
+0
+a6
+0
+8
+1
+80
+1
+ae
+0
+de
+1
+b7
+1
+ce
+1
+f1
+0
+b6
+0
+66
+0
+5
+1
+fa
+0
+7
+1
+90
+0
+92
+0
+6e
+0
+f5
+1
+7d
+1
+8e
+0
+f8
+1
+ab
+0
+41
+1
+2a
+0
+19
+1
+19
+0
+66
+0
+dd
+0
+37
+1
+46
+1
+20
+0
+16
+1
+11
+0
+4
+0
+80
+0
+b9
+1
+fe
+0
+27
+1
+df
+0
+73
+0
+31
+0
+77
+1
+aa
+0
+f8
+1
+39
+1
+a9
+1
+18
+1
+e7
+0
+ca
+0
+b8
+1
+7e
+1
+c2
+1
+d6
+1
+bd
+0
+3a
+0
+ad
+1
+bc
+0
+4
+0
+7a
+1
+48
+0
+3b
+1
+d
+0
+b1
+0
+7d
+1
+e0
+1
+c6
+1
+a6
+1
+dc
+1
+72
+1
+32
+0
+c9
+1
+19
+1
+5
+1
+eb
+0
+19
+1
+32
+1
+26
+1
+a8
+1
+34
+0
+53
+0
+5a
+1
+73
+1
+a3
+1
+7e
+0
+e8
+1
+c2
+1
+90
+1
+36
+0
+f8
+0
+14
+1
+56
+0
+67
+1
+86
+0
+53
+1
+35
+1
+cf
+0
+c1
+0
+90
+0
+92
+0
+79
+0
+bf
+1
+2c
+0
+17
+0
+e5
+1
+84
+0
+22
+1
+40
+1
+56
+0
+98
+1
+81
+0
+51
+0
+5d
+1
+93
+1
+76
+1
+fc
+1
+9f
+1
+2b
+1
+a
+1
+2e
+0
+53
+1
+e9
+1
+8d
+1
+fe
+0
+f0
+0
+8d
+0
+64
+1
+c2
+1
+f0
+0
+ae
+0
+7a
+0
+56
+1
+65
+0
+e5
+1
+c4
+1
+5f
+0
+c6
+1
+8c
+0
+72
+0
+36
+0
+21
+1
+d4
+1
+a2
+1
+46
+0
+ec
+1
+f9
+1
+9f
+0
+81
+0
+d1
+1
+74
+0
+7a
+0
+ad
+1
+1c
+0
+93
+1
+c4
+1
+f1
+1
+8d
+0
+6a
+0
+5c
+1
+c3
+0
+a4
+1
+b0
+1
+c
+1
+48
+0
+97
+1
+72
+1
+90
+1
+51
+0
+59
+1
+3b
+0
+ae
+1
+2
+0
+f2
+0
+6b
+0
+1c
+0
+97
+1
+eb
+1
+4
+0
+78
+0
+d4
+0
+8
+1
+21
+1
+66
+1
+46
+1
+57
+1
+dc
+0
+ae
+0
+41
+0
+4a
+0
+ee
+0
+db
+0
+26
+0
+cd
+0
+bd
+1
+76
+1
+56
+1
+d7
+1
+18
+0
+ea
+0
+fc
+0
+df
+1
+47
+0
+b6
+0
+2d
+0
+35
+0
+66
+1
+a2
+1
+d6
+1
+b7
+0
+b5
+1
+24
+1
+ad
+1
+83
+1
+39
+1
+23
+0
+af
+1
+e
+0
+90
+1
+7f
+0
+c5
+1
+d9
+1
+c4
+0
+b8
+0
+eb
+0
+2d
+1
+9e
+1
+ac
+1
+4d
+0
+10
+1
+9c
+0
+bb
+1
+35
+1
+43
+0
+8e
+1
+83
+0
+77
+1
+7e
+1
+d8
+1
+d6
+1
+a7
+1
+63
+1
+55
+0
+90
+0
+3e
+1
+28
+1
+d3
+0
+27
+0
+ad
+1
+ce
+1
+2c
+1
+8e
+0
+ad
+1
+df
+1
+43
+0
+48
+0
+b8
+1
+2f
+1
+bb
+0
+af
+1
+5f
+0
+d5
+0
+bb
+0
+3b
+1
+66
+0
+a3
+1
+5a
+1
+36
+1
+3d
+1
+8d
+1
+ca
+0
+6b
+1
+81
+1
+90
+1
+5a
+0
+37
+0
+17
+0
+ec
+1
+8
+0
+3a
+1
+30
+0
+0
+0
+e
+1
+92
+1
+4b
+1
+cc
+0
+f4
+0
+98
+0
+d3
+1
+b3
+0
+67
+0
+e7
+0
+f6
+0
+50
+0
+fb
+0
+6c
+0
+67
+1
+b6
+0
+a3
+0
+c1
+1
+67
+0
+4
+0
+c5
+0
+d2
+1
+c4
+1
+c6
+1
+6f
+1
+aa
+0
+81
+1
+63
+1
+85
+0
+a9
+1
+3b
+0
+62
+1
+a8
+1
+cd
+1
+b0
+0
+6b
+1
+6d
+1
+e
+0
+c2
+1
+5c
+0
+82
+1
+96
+1
+1
+0
+80
+1
+c8
+0
+72
+0
+89
+1
+e2
+1
+f7
+0
+40
+0
+80
+1
+1e
+0
+e9
+0
+1e
+1
+1
+1
+dd
+0
+81
+0
+86
+1
+6d
+0
+8
+1
+30
+1
+3a
+0
+4f
+1
+ea
+1
+cc
+0
+ef
+1
+d7
+0
+3a
+0
+39
+0
+6c
+0
+d3
+1
+bd
+0
+be
+1
+d7
+0
+4b
+1
+61
+1
+5b
+0
+35
+1
+b8
+0
+f1
+0
+4a
+1
+d0
+0
+ed
+1
+e2
+0
+63
+0
+61
+1
+98
+0
+8b
+1
+63
+0
+82
+1
+43
+0
+29
+0
+7f
+1
+48
+0
+7e
+0
+bb
+1
+1a
+0
+ea
+0
+96
+1
+2f
+0
+1a
+1
+2f
+1
+af
+0
+9
+1
+1e
+1
+c0
+0
+6f
+0
+ff
+1
+48
+0
+25
+0
+81
+0
+8f
+1
+6b
+1
+a4
+1
+45
+1
+fa
+0
+63
+1
+12
+0
+e5
+1
+25
+0
+a7
+0
+64
+1
+d0
+0
+4
+1
+aa
+0
+df
+0
+9
+1
+c8
+0
+e7
+0
+76
+1
+3f
+0
+8b
+0
+9b
+0
+b5
+1
+ba
+1
+83
+1
+c1
+1
+78
+0
+4a
+0
+a9
+0
+a6
+1
+20
+0
+f6
+1
+24
+1
+54
+1
+9
+1
+c
+1
+36
+1
+33
+1
+27
+0
+c6
+1
+4e
+0
+91
+1
+18
+0
+43
+1
+cf
+0
+4a
+1
+98
+1
+d8
+1
+1e
+0
+58
+0
+c0
+0
+bd
+0
+b
+0
+e2
+0
+dd
+1
+dc
+1
+30
+0
+f2
+1
+48
+1
+a
+1
+1e
+0
+7
+0
+96
+0
+73
+1
+d
+1
+dc
+1
+2f
+0
+c4
+0
+89
+0
+6c
+0
+4e
+0
+92
+0
+b5
+1
+c7
+1
+b9
+1
+15
+0
+26
+0
+8d
+1
+fc
+1
+71
+1
+cc
+0
+d7
+1
+e7
+0
+36
+1
+41
+1
+d7
+1
+eb
+1
+e
+1
+ed
+0
+9e
+1
+a6
+1
+7d
+0
+d0
+0
+89
+0
+b
+0
+d6
+1
+48
+1
+d4
+0
+48
+1
+9f
+0
+ad
+1
+18
+0
+df
+0
+3a
+0
+fb
+0
+72
+1
+8c
+0
+6f
+0
+fa
+1
+28
+0
+f3
+1
+dd
+1
+ab
+1
+6a
+1
+bc
+1
+7c
+1
+80
+1
+2
+0
+bb
+1
+2c
+0
+15
+1
+59
+0
+8e
+0
+fd
+1
+c0
+1
+8d
+1
+24
+1
+ee
+0
+1c
+0
+c3
+1
+62
+0
+42
+0
+d4
+0
+41
+1
+81
+0
+47
+0
+c
+0
+37
+0
+68
+0
+22
+1
+59
+1
+dc
+0
+1a
+1
+4d
+0
+23
+1
+f
+1
+4f
+0
+67
+0
+96
+1
+b4
+1
+16
+0
+ad
+0
+9b
+1
+bc
+0
+18
+1
+2b
+1
+8d
+0
+ef
+0
+d2
+1
+df
+0
+4c
+1
+7a
+1
+40
+0
+bf
+1
+89
+1
+ed
+0
+6e
+1
+c1
+1
+7e
+0
+c
+0
+5b
+1
+7
+0
+3f
+1
+91
+0
+32
+0
+6
+0
+5e
+0
+1a
+1
+61
+1
+74
+1
+4d
+1
+8a
+0
+fb
+1
+c5
+1
+c9
+1
+f
+1
+9
+1
+e
+1
+d
+0
+5a
+1
+f
+1
+be
+0
+e1
+1
+c
+0
+b2
+1
+2e
+0
+e2
+1
+ba
+1
+4
+0
+57
+0
+51
+0
+f3
+1
+7d
+1
+a3
+0
+a0
+1
+cb
+1
+5f
+0
+1c
+0
+62
+0
+83
+1
+a9
+1
+13
+1
+6a
+0
+68
+1
+4d
+0
+3c
+1
+26
+1
+f8
+0
+30
+0
+2e
+1
+9a
+1
+7f
+0
+83
+1
+39
+1
+c4
+1
+f9
+0
+6e
+0
+f8
+1
+d9
+0
+47
+1
+20
+0
+c4
+1
+b3
+1
+ea
+0
+59
+1
+b4
+1
+12
+1
+ec
+1
+cf
+0
+7a
+1
+e2
+1
+1
+0
+7f
+0
+29
+0
+5b
+1
+7f
+1
+f4
+1
+c2
+0
+0
+1
+8a
+0
+c4
+0
+4c
+0
+72
+1
+6b
+1
+5e
+0
+d5
+1
+58
+1
+91
+1
+d1
+0
+30
+1
+2b
+1
+a7
+1
+f2
+1
+c6
+1
+15
+0
+4c
+1
+8f
+1
+b0
+0
+d1
+1
+43
+0
+1
+0
+70
+1
+ef
+0
+31
+1
+bc
+0
+ec
+0
+10
+1
+7
+0
+fd
+1
+f6
+0
+1f
+0
+ed
+1
+db
+1
+b0
+1
+b9
+1
+dc
+0
+b
+1
+15
+0
+4e
+0
+bb
+0
+a8
+0
+f2
+0
+3c
+1
+bb
+1
+c8
+1
+4c
+1
+f4
+1
+95
+1
+d7
+0
+7c
+1
+38
+0
+4b
+0
+a5
+1
+3f
+0
+a7
+1
+fe
+0
+a2
+0
+7
+1
+ea
+0
+18
+0
+74
+0
+99
+1
+9e
+1
+38
+0
+74
+1
+5
+1
+d
+1
+f1
+0
+b1
+0
+a6
+0
+2a
+1
+a7
+1
+95
+1
+ab
+1
+72
+0
+32
+1
+28
+0
+4f
+1
+fa
+1
+3b
+0
+3b
+1
+1c
+1
+91
+1
+fc
+0
+3d
+1
+9b
+1
+47
+0
+34
+0
+f2
+0
+5b
+1
+a3
+1
+4a
+1
+59
+1
+91
+0
+20
+0
+c2
+0
+d
+0
+a5
+1
+eb
+0
+e1
+1
+43
+0
+90
+0
+c0
+0
+66
+0
+a4
+0
+16
+0
+4f
+0
+13
+1
+fa
+0
+fc
+0
+71
+0
+76
+1
+9d
+0
+1d
+0
+bc
+0
+b1
+1
+7b
+1
+8a
+1
+5
+0
+ed
+1
+b3
+0
+f2
+1
+64
+0
+ab
+1
+aa
+0
+78
+1
+65
+0
+9a
+1
+a
+1
+8b

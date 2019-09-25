@@ -91,17 +91,40 @@ module tb_part2();
 	logic [7:0] a;
 	logic [19:0] f;
 
+	logic [7:0] testData[2000 : 0];
+	initial $readmemh ("inputdata.txt", testData);
+	integer i;
+	integer filehandle = $fopen( "OutValues.txt", "w" );
+
 	part2 dut(.clk(clk), .reset(reset), .a(a), .valid_in(valid_in), .f(f), .valid_out(valid_out));
 
 	initial clk = 0;
 	always #5 clk = ~clk;
 
-	initial begin
-
 	  // Before first clock edge, initialize
-	  reset = 0;
-	  a = 0;
-	  valid_in = 0;
+	 
+
+	 
+	 initial begin 
+
+	 reset = 0;
+	 a = 0;
+	 valid_in = 0;
+
+
+	  for (i = 0; i < 1000; i = i+1) begin
+	  	@(posedge clk);
+	  	#1;
+	  	valid_in = testData[ 2*i ];
+	  	a = testData[ 2*i+1 ][ 7:0 ];
+	  	$fdisplay(filehandle, "%d%d\n", valid_out, f);
+	  end;
+	 end;
+
+	  /* always @(posedge clk)
+	  	$fdisplay(filehandle, "%d%d\n", valid_out, f); */
+
+
 
 	  /* @(posedge clk);
 	  #1; // After 1 posedge

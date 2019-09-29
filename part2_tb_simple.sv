@@ -113,7 +113,9 @@ module tb_part2();
 	  	a = testData[ 2*i+1 ][ 7:0 ];
 	  	$fdisplay(filehandle, "%d%d\n", valid_out, f);
 	  end;
+	  $finish;
 	 end;
+
 
 	  /* always @(posedge clk)
 	  	$fdisplay(filehandle, "%d%d\n", valid_out, f); */

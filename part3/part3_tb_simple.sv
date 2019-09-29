@@ -46,26 +46,40 @@ module op_dff (d_in, enable_f, clk, reset, f);
    end
 endmodule
 
+module op_dff2 (d_in, enable_g, clk, reset, g);
+   input clk, reset, enable_g;
+   input [9:0] d_in; 
+   output logic [9:0] g;
+
+   always_ff @(posedge clk) begin
+     if (reset == 1)
+       g <= 0;
+     else if ((reset == 0) && (enable_g == 1))
+       g <= d_in;
+   end
+endmodule
+
      
 module part3(clk, reset, a, valid_in, g, valid_out);
    input clk, reset, valid_in;
    input [7:0] a; 
-   output logic [19:0] g;
+   output logic [9:0] g;
    output logic valid_out;
    logic [7:0] w_dff;
    logic w_en_a, w_en_f, w_en_g;
    logic [15:0] w_mult;
-   logic [19:0] w_sum, w_part2, w_final;
+   logic [19:0] w_sum, w_part2;
+   logic [9:0] w_final;
 
    control i0 (.clk(clk), .valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f), .enable_g(w_en_g), .reset(reset));
    dff i1 (.clk(clk), .a(a), .reset(reset), .enable_a(w_en_a), .dff_out(w_dff));
 
    assign w_mult = w_dff * w_dff;
-   assign w_sum = w_mult + f;
+   assign w_sum = w_mult + w_part2;
 
    op_dff i3 (.d_in(w_sum), .enable_f(w_en_f), .clk(clk), .reset(reset), .f(w_part2));
    DW_sqrt #(20) sqrtinstance(.a(w_part2), .root(w_final));
-   op_dff i4 (.d_in(w_final), .enable_f(w_en_g), .clk(clk), .reset(reset), .f(g));
+   op_dff2 i4 (.d_in(w_final), .enable_g(w_en_g), .clk(clk), .reset(reset), .g(g));
 endmodule
 
 // This is a very small testbench for you to check that you have the right

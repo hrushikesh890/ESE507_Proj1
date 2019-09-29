@@ -55,7 +55,7 @@ module part3(clk, reset, a, valid_in, f, valid_out);
 	logic [7:0] w_dff;
 	logic w_en_a, w_en_f, w_en_g;
 	logic [15:0] w_mult;
-	logic [19:0] w_sum;
+	logic [19:0] w_sum, w_part2, w_final;
 
 	control i0 (.clk(clk), .valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f), .enable_g(w_en_g), .reset(reset));
 	dff i1 (.clk(clk), .a(a), .reset(reset), .enable_a(w_en_a), .dff_out(w_dff));
@@ -63,7 +63,9 @@ module part3(clk, reset, a, valid_in, f, valid_out);
 	assign w_mult = w_dff * w_dff;
 	assign w_sum = w_mult + f;
 
-	op_dff i3 (.d_in(w_sum), .enable_f(w_en_f), .clk(clk), .reset(reset), .f(f));
+	op_dff i3 (.d_in(w_sum), .enable_f(w_en_f), .clk(clk), .reset(reset), .f(w_part2));
+	DW_sqrt #(20) sqrtinstance(.a(w_part2), .root(w_final));
+	op_dff i4 (.d_in(w_final), .enable_f(w_en_g), .clk(clk), .reset(reset), .f(f));
 endmodule
 
 

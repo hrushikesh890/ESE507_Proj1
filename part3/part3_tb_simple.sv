@@ -94,6 +94,11 @@ module tb_part3();
    logic [7:0] a;
    logic [9:0] g;
 
+   logic [7:0] testData[2000 : 0];
+   initial $readmemh ("part3/inputdata_part3.txt", testData);
+   integer i;
+   integer filehandle = $fopen( "part3/OutValues_part3.txt", "w" );
+
    part3 dut(.clk(clk), .reset(reset), .a(a), .valid_in(valid_in), .g(g), .valid_out(valid_out));
 
    initial clk = 0;
@@ -107,6 +112,21 @@ module tb_part3();
       valid_in = 0;
 
       @(posedge clk);
+      #1; // After 1 posedge
+      reset = 0; a = 5; valid_in = 0;
+
+
+      for (i = 0; i < 1000; i = i+1) begin
+         @(posedge clk);
+         #1;
+         valid_in = testData[ 2*i ];
+         a = testData[ 2*i+1 ][ 7:0 ];
+         $fdisplay(filehandle, "%d%d\n", valid_out, g);
+         end;
+     $finish;
+    end;
+
+      /*@(posedge clk);
       #1; // After 1 posedge
       reset = 0; a = 10; valid_in = 0;
       @(posedge clk);
@@ -209,6 +229,6 @@ module tb_part3();
 
       #20;
       $finish;
-   end
+   end*/
 
 endmodule // tb_part2_mac

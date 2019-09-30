@@ -12,7 +12,18 @@ int main()
   inputdata = fopen("inputdata.txt", "w");
   expectedoutput = fopen("expectedoutput.txt", "w");
   
-  fprintf(expectedoutput,  "%d %d\n", valid_out, f);
+  //fprintf(expectedoutput,  "%d %d\n", valid_out, f);
+  
+  if(reset == 1)
+    {
+      f=0;
+      a=0;
+      fprintf(expectedoutput,  "%d %d\n", 0, 0);
+      fprintf(expectedoutput,  "%d %d\n", 0, 0);
+    }
+    
+    reset = 0;
+  
   
   for(i = 0; i < inputs; i++)
   {
@@ -38,7 +49,6 @@ int main()
       f += (a * a);
       fprintf(expectedoutput,  "%d %d\n", 1, f);
     }
-    reset = 0;
   }
   fclose(inputdata);
   fclose(expectedoutput);

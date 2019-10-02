@@ -81,7 +81,7 @@ module tb_part2();
 	logic [7:0] a;
 	logic [19:0] f;
 
-	logic [7:0] testData[2000 : 0];
+	logic [7:0] testData[300000 : 0];
 	initial $readmemh ("inputdata.txt", testData);
 	integer i;
 	integer filehandle = $fopen( "OutValues.txt", "w" );
@@ -106,7 +106,7 @@ module tb_part2();
 	 reset = 0; a = 10; valid_in = 0;
 
 
-	  for (i = 0; i < 1000; i = i+1) begin
+	  for (i = 0; i < 100000; i = i+1) begin
 	  	@(posedge clk);
 	  	#1;
 	  	valid_in = testData[ 2*i ];

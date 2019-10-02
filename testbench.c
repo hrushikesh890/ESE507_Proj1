@@ -2,7 +2,7 @@
 #include<time.h>
 int main()
 {
-  int inputs = 1000, lower = 0, upper = 1;
+  int inputs = 100000, lower = 0, upper = 1;
   int reset = 1, valid_in, valid_out = 0, f = 0, a, i = 0;
   int nUpper = 255, nLower = 0;
   
@@ -47,6 +47,7 @@ int main()
     else
     {
       f += (a * a);
+      f = f%1048576;
       fprintf(expectedoutput,  "%d %d\n", 1, f);
     }
   }

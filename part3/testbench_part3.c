@@ -3,7 +3,7 @@
 #include<math.h>
 int main()
 {
-  int inputs = 1000, lower = 0, upper = 1;
+  int inputs = 100000, lower = 0, upper = 1;
   int reset = 1, valid_in, valid_out = 0, f = 0, a, i = 0, sq = 0;
   int nUpper = 255, nLower = 0;
   
@@ -38,8 +38,7 @@ int main()
     }
     else
     {
-      printf("%d/n",a);
-      f += (a * a);
+      f = (f + (a * a)) % 1048576;
       sq = sqrt(f);
       fprintf(expectedoutput,  "%d  %d\n", 1, (int)sq);
     }

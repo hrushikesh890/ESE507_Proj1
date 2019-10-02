@@ -1,4 +1,4 @@
-module dff (clk, reset, a, enable_a, dff_out);
+module dff (clk, reset, a, enable_a, dff_out);   //Input flip flop
    input clk, reset, enable_a;
    input [7:0] a; 
    output logic [7:0] dff_out;
@@ -11,7 +11,7 @@ module dff (clk, reset, a, enable_a, dff_out);
    end
 endmodule
 
-module control (clk,valid_in, valid_out, enable_a, enable_f, enable_g, reset);
+module control (clk,valid_in, valid_out, enable_a, enable_f, enable_g, reset);  //Control Module
    input clk, valid_in, reset;
    output logic valid_out, enable_a, enable_f, enable_g;
 
@@ -33,7 +33,7 @@ module control (clk,valid_in, valid_out, enable_a, enable_f, enable_g, reset);
    end
 endmodule
 
-module op_dff (d_in, enable_f, clk, reset, f);
+module op_dff (d_in, enable_f, clk, reset, f);   //Accumulator Output flip flop
    input clk, reset, enable_f;
    input [19:0] d_in; 
    output logic [19:0] f;
@@ -46,7 +46,7 @@ module op_dff (d_in, enable_f, clk, reset, f);
    end
 endmodule
 
-module op_dff2 (d_in, enable_g, clk, reset, g);
+module op_dff2 (d_in, enable_g, clk, reset, g);  // Output flip flop
    input clk, reset, enable_g;
    input [9:0] d_in; 
    output logic [9:0] g;
@@ -60,7 +60,7 @@ module op_dff2 (d_in, enable_g, clk, reset, g);
 endmodule
 
      
-module part3(clk, reset, a, valid_in, g, valid_out);
+module part3(clk, reset, a, valid_in, g, valid_out);   //Main flip flop
    input clk, reset, valid_in;
    input [7:0] a; 
    output logic [9:0] g;
@@ -94,7 +94,7 @@ module tb_part3();
    logic [7:0] a;
    logic [9:0] g;
 
-   logic [7:0] testData[2000 : 0];
+   logic [7:0] testData[300000 : 0];
    initial $readmemh ("part3/inputdata_part3.txt", testData);
    integer i;
    integer filehandle = $fopen( "part3/OutValues_part3.txt", "w" );
@@ -116,7 +116,7 @@ module tb_part3();
       reset = 0; a = 5; valid_in = 0;
 
 
-      for (i = 0; i < 1000; i = i+1) begin
+      for (i = 0; i < 100000; i = i+1) begin
          @(posedge clk);
          #1;
          valid_in = testData[ 2*i ];
@@ -126,7 +126,7 @@ module tb_part3();
      $finish;
     end;
 
-      /*@(posedge clk);
+      /*@(posedge clk);    //Manual test cases
       #1; // After 1 posedge
       reset = 0; a = 10; valid_in = 0;
       @(posedge clk);

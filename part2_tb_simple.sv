@@ -1,4 +1,4 @@
-module dff (clk, reset, a, enable_a, dff_out);
+module dff (clk, reset, a, enable_a, dff_out);   //Input flip flop
 	input clk, reset, enable_a;
 	input [7:0] a; 
 	output logic [7:0] dff_out;
@@ -31,7 +31,7 @@ module control (clk,valid_in, valid_out, enable_a, enable_f, reset);
 	end
 endmodule
 
-module op_dff (d_in, enable_f, clk, reset, f);
+module op_dff (d_in, enable_f, clk, reset, f);   //Output flip flop
 	input clk, reset, enable_f;
 	input [19:0] d_in; 
 	output logic [19:0] f;
@@ -45,7 +45,7 @@ module op_dff (d_in, enable_f, clk, reset, f);
 endmodule
 
 	  
-module part2(clk, reset, a, valid_in, f, valid_out);
+module part2(clk, reset, a, valid_in, f, valid_out);   //Main Module
 	input clk, reset, valid_in;
 	input [7:0] a; 
 	output logic [19:0] f;
@@ -117,12 +117,7 @@ module tb_part2();
 	 end;
 
 
-	  /* always @(posedge clk)
-	  	$fdisplay(filehandle, "%d%d\n", valid_out, f); */
-
-
-
-	  /* @(posedge clk);
+	  /* @(posedge clk);   //Manual Test Cases
 	  #1; // After 1 posedge
 	  reset = 0; a = 10; valid_in = 0;
 	  @(posedge clk);

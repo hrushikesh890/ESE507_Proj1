@@ -2,7 +2,7 @@
 
 
 
-module dff (clk, reset, a, enable_a, dff_out);   //Input flip flop
+module dff (clk, reset, a, enable_a, dff_out);   // Input flip flop
 	input clk, reset, enable_a;
 	input [7:0] a; 
 	output logic [7:0] dff_out;
@@ -15,7 +15,7 @@ module dff (clk, reset, a, enable_a, dff_out);   //Input flip flop
 	end
 endmodule
 
-module control (clk,valid_in, valid_out, enable_a, enable_f, reset);
+module control (clk,valid_in, valid_out, enable_a, enable_f, reset); // Control Module
 	input clk, valid_in, reset;
 	output logic valid_out, enable_a, enable_f;
 
@@ -35,7 +35,7 @@ module control (clk,valid_in, valid_out, enable_a, enable_f, reset);
 	end
 endmodule
 
-module op_dff (d_in, enable_f, clk, reset, f);   //Output flip flop
+module op_dff (d_in, enable_f, clk, reset, f);   // Output flip flop
 	input clk, reset, enable_f;
 	input [19:0] d_in; 
 	output logic [19:0] f;
@@ -49,15 +49,15 @@ module op_dff (d_in, enable_f, clk, reset, f);   //Output flip flop
 endmodule
 
 	  
-module part2(clk, reset, a, valid_in, f, valid_out);   //Main Module
+module part2(clk, reset, a, valid_in, f, valid_out);   // Main Module
 	input clk, reset, valid_in;
 	input [7:0] a; 
 	output logic [19:0] f;
 	output logic valid_out;
-	wire logic [7:0] w_dff;
+	wire logic [7:0] w_dff; // Wire to connect input dff to multiplier
 	wire logic w_en_a, w_en_f;
-	wire logic [15:0] w_mult;
-	wire logic [19:0] w_sum;
+	wire logic [15:0] w_mult; // multiplier output to connect to accumulator
+	wire logic [19:0] w_sum; // Wire to connect accumulator to output dff
 
 	control i0 ( .clk(clk),.valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f), .reset(reset));
 	dff i1 (.clk(clk), .a(a), .reset(reset), .enable_a(w_en_a), .dff_out(w_dff));
@@ -95,9 +95,7 @@ module tb_part2();
 	initial clk = 0;
 	always #5 clk = ~clk;
 
-	  // Before first clock edge, initialize
-	 
-
+	// Before first clock edge, initialize
 	 
 	 initial begin 
 
@@ -107,9 +105,9 @@ module tb_part2();
 
 	 @(posedge clk);
 	 #1; // After 1 posedge
-	 reset = 0; a = 10; valid_in = 0;
+	 reset = 0; a = 10; valid_in = 0; // Reset set to 0
 
-
+	// Automated test cases.
 	  for (i = 0; i < 100000; i = i+1) begin
 	  	@(posedge clk);
 	  	#1;
@@ -120,6 +118,7 @@ module tb_part2();
 	  $finish;
 	 end;
 
+	// To run manual test cases please uncomment the test cases
 
 	  /* @(posedge clk);   //Manual Test Cases
 	  #1; // After 1 posedge
@@ -141,16 +140,16 @@ module tb_part2();
 	  a = 64;  valid_in = 1;
 	  @(posedge clk);
 	  #1; // After 7 posedges
-	  a = 0;  valid_in = 1;
+	  a = 0;  valid_in = 1; // To test minimum input
 	  @(posedge clk);
 	  #1; // After 8 posedges
-	  a = 255;  valid_in = 1;
+	  a = 255;  valid_in = 1; // To test maximum input 
 	  @(posedge clk);
 	  #1; // After 9 posedges
 	  a = 64;  valid_in = 1;
 	  @(posedge clk);
 	  #1; // After 10 posedges
-	  reset = 1;  valid_in = 1; a = 1; 
+	  reset = 1;  valid_in = 1; a = 1;  // To test reset == 1 case
 
 	end // initial begin
 
@@ -215,11 +214,10 @@ module tb_part2();
 	  $display("valid_out = %b. Expected value is 0.", valid_out);
 	  $display("f = %d. Expected value is 0.", f); 
  
-
 	  #20;
 	  $finish;
 	end */
 
-	
+// Uncomment till here to run manual test case	
 
 endmodule // tb_part2_mac

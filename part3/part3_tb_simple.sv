@@ -1,4 +1,4 @@
-//Created By Nehul Oswal and Hrushikesh Patil
+//Created By Nehul Oswal(112820228) and Hrushikesh Patil(112872294)
 
 
 
@@ -64,7 +64,7 @@ module op_dff2 (d_in, enable_g, clk, reset, g);  // Output flip flop
 endmodule
 
      
-module part3(clk, reset, a, valid_in, g, valid_out);   //Main flip flop
+module part3(clk, reset, a, valid_in, g, valid_out);   //Main circuit
    input clk, reset, valid_in;
    input [7:0] a; 
    output logic [9:0] g;
@@ -73,7 +73,7 @@ module part3(clk, reset, a, valid_in, g, valid_out);   //Main flip flop
    logic w_en_a, w_en_f, w_en_g;
    logic [15:0] w_mult;
    logic [19:0] w_sum, w_part2;
-   logic [9:0] w_final;
+   logic [9:0] w_final; // To connect to final output
 
    control i0 (.clk(clk), .valid_in(valid_in), .valid_out(valid_out), .enable_a(w_en_a), .enable_f(w_en_f), .enable_g(w_en_g), .reset(reset));
    dff i1 (.clk(clk), .a(a), .reset(reset), .enable_a(w_en_a), .dff_out(w_dff));
@@ -162,7 +162,7 @@ module tb_part3();
 	  reset = 0;  valid_in = 1; a = 1;
 	  @(posedge clk);
 	  #1; // After 11 posedges
-	  reset = 1;  valid_in = 1; a = 1; 
+	  reset = 1;  valid_in = 1; a = 1; // To test reset condition
    end // initial begin
 
    initial begin

@@ -1,3 +1,7 @@
+//Created By Nehul Oswal(112820228) and Hrushikesh Patil(112872294)
+
+
+
 module dff (clk, reset, a, enable_a, dff_out);   //Input flip flop
 	input clk, reset, enable_a;
 	input [7:0] a; 
